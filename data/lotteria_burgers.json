@@ -1,0 +1,1227 @@
+[
+  {
+    "name": "치킨 버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 141,
+        "unit": "g"
+      },
+      "calories": 355,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "28%"
+      },
+      "sodium": {
+        "value": 619,
+        "unit": "mg",
+        "dailyValue": "31%"
+      },
+      "sugar": {
+        "value": 8,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 38,
+        "unit": "g",
+        "dailyValue": "25%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "난류",
+      "우유",
+      "땅콩",
+      "닭고기",
+      "쇠고기",
+      "조개류"
+    ],
+    "origin": "닭고기 브라질산"
+  },
+  {
+    "name": "티렉스버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 213,
+        "unit": "g"
+      },
+      "calories": 475,
+      "protein": {
+        "value": 26,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "sodium": {
+        "value": 874,
+        "unit": "mg",
+        "dailyValue": "44%"
+      },
+      "sugar": {
+        "value": 7,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 54,
+        "unit": "g",
+        "dailyValue": "36%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "난류",
+      "우유",
+      "닭고기",
+      "땅콩"
+    ],
+    "origin": "닭고기 브라질산"
+  },
+  {
+    "name": "미라클버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 181,
+        "unit": "g"
+      },
+      "calories": 352,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "27%"
+      },
+      "sodium": {
+        "value": 550,
+        "unit": "mg",
+        "dailyValue": "28%"
+      },
+      "sugar": {
+        "value": 9,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 40,
+        "unit": "g",
+        "dailyValue": "27%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "토마토"
+    ],
+    "origin": null
+  },
+  {
+    "name": "더블 미라클버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 245,
+        "unit": "g"
+      },
+      "calories": 520,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "44%"
+      },
+      "sodium": {
+        "value": 880,
+        "unit": "mg",
+        "dailyValue": "44%"
+      },
+      "sugar": {
+        "value": 11,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 70,
+        "unit": "g",
+        "dailyValue": "47%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "토마토"
+    ],
+    "origin": null
+  },
+  {
+    "name": "리아 새우",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 179,
+        "unit": "g"
+      },
+      "calories": 492,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "27%"
+      },
+      "sodium": {
+        "value": 810,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "sugar": {
+        "value": 7,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 47,
+        "unit": "g",
+        "dailyValue": "31%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "난류",
+      "우유",
+      "토마토",
+      "새우"
+    ],
+    "origin": "새우패티 베트남산"
+  },
+  {
+    "name": "리아_새우",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 179,
+        "unit": "g"
+      },
+      "calories": 492,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "27%"
+      },
+      "sodium": {
+        "value": 810,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "sugar": {
+        "value": 7,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 47,
+        "unit": "g",
+        "dailyValue": "31%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "난류",
+      "우유",
+      "토마토",
+      "새우"
+    ],
+    "origin": "명태연육 미국산"
+  },
+  {
+    "name": "리아 사각새우 더블",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 208,
+        "unit": "g"
+      },
+      "calories": 556,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "32%"
+      },
+      "sodium": {
+        "value": 962,
+        "unit": "mg",
+        "dailyValue": "48%"
+      },
+      "sugar": {
+        "value": 7,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 51,
+        "unit": "g",
+        "dailyValue": "34%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "난류",
+      "우유",
+      "토마토",
+      "새우"
+    ],
+    "origin": "새우패티 베트남산"
+  },
+  {
+    "name": "리아_사각새우 더블",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 208,
+        "unit": "g"
+      },
+      "calories": 556,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "32%"
+      },
+      "sodium": {
+        "value": 962,
+        "unit": "mg",
+        "dailyValue": "48%"
+      },
+      "sugar": {
+        "value": 7,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 51,
+        "unit": "g",
+        "dailyValue": "34%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "난류",
+      "우유",
+      "토마토",
+      "새우"
+    ],
+    "origin": "명태연육 미국산"
+  },
+  {
+    "name": "통새우크런KIM버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 224,
+        "unit": "g"
+      },
+      "calories": 579,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sodium": {
+        "value": 1060,
+        "unit": "mg",
+        "dailyValue": "53%"
+      },
+      "sugar": {
+        "value": 9,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 44,
+        "unit": "g",
+        "dailyValue": "29%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "새우"
+    ],
+    "origin": "새우패티 - 베트남산"
+  },
+  {
+    "name": "통새우_크런KIM버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 224,
+        "unit": "g"
+      },
+      "calories": 579,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sodium": {
+        "value": 1060,
+        "unit": "mg",
+        "dailyValue": "53%"
+      },
+      "sugar": {
+        "value": 9,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 44,
+        "unit": "g",
+        "dailyValue": "29%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "새우"
+    ],
+    "origin": "명태연육 - 미국산"
+  },
+  {
+    "name": "모짜렐라 인 더 버거 베이컨",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 223,
+        "unit": "g"
+      },
+      "calories": 699,
+      "protein": {
+        "value": 30,
+        "unit": "g",
+        "dailyValue": "55%"
+      },
+      "sodium": {
+        "value": 1020,
+        "unit": "mg",
+        "dailyValue": "51%"
+      },
+      "sugar": {
+        "value": 6,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 160,
+        "unit": "g",
+        "dailyValue": "107%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "쇠고기",
+      "돼지고기"
+    ],
+    "origin": "쇠고기 - 호주산, 베이컨 - 돼지고기 외국산"
+  },
+  {
+    "name": "리아 불고기",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 188,
+        "unit": "g"
+      },
+      "calories": 476,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "36%"
+      },
+      "sodium": {
+        "value": 778,
+        "unit": "mg",
+        "dailyValue": "39%"
+      },
+      "sugar": {
+        "value": 10,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 72,
+        "unit": "g",
+        "dailyValue": "48%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "난류",
+      "우유",
+      "쇠고기,토마토,돼지고기,닭고기"
+    ],
+    "origin": "쇠고기 호주산"
+  },
+  {
+    "name": "전주비빔라이스버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 285,
+        "unit": "g"
+      },
+      "calories": 572,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sodium": {
+        "value": 1460,
+        "unit": "mg",
+        "dailyValue": "73%"
+      },
+      "sugar": {
+        "value": 8,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 8,
+        "unit": "g",
+        "dailyValue": "53%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "쇠고기"
+    ],
+    "origin": "쌀-국내산 쇠고기-호주산"
+  },
+  {
+    "name": "핫크리스피치킨버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 190,
+        "unit": "g"
+      },
+      "calories": 503,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sodium": {
+        "value": 929,
+        "unit": "mg",
+        "dailyValue": "46%"
+      },
+      "sugar": {
+        "value": 5,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 73,
+        "unit": "g",
+        "dailyValue": "49%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "난류",
+      "토마토",
+      "닭고기"
+    ],
+    "origin": "닭고기 국내산"
+  },
+  {
+    "name": "더블엑스투버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 228,
+        "unit": "g"
+      },
+      "calories": 716,
+      "protein": {
+        "value": 25,
+        "unit": "g",
+        "dailyValue": "45%"
+      },
+      "sodium": {
+        "value": 1070,
+        "unit": "mg",
+        "dailyValue": "54%"
+      },
+      "sugar": {
+        "value": 7,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 25,
+        "unit": "g",
+        "dailyValue": "167%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "우유",
+      "난류",
+      "쇠고기",
+      "토마토"
+    ],
+    "origin": "쇠고기 호주산"
+  },
+  {
+    "name": "불고기포텐 버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 255,
+        "unit": "g"
+      },
+      "calories": 693,
+      "protein": {
+        "value": 28,
+        "unit": "g",
+        "dailyValue": "51%"
+      },
+      "sodium": {
+        "value": 1140,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "sugar": {
+        "value": 13,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "60%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "쇠고기",
+      "돼지고기",
+      "토마토",
+      "조개류(굴)",
+      "아황산류"
+    ],
+    "origin": "쇠고기 호주산"
+  },
+  {
+    "name": "오징어 얼라이브(매운맛)",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 202,
+        "unit": "g"
+      },
+      "calories": 502,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "36%"
+      },
+      "sodium": {
+        "value": 860,
+        "unit": "mg",
+        "dailyValue": "43%"
+      },
+      "sugar": {
+        "value": 12,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 39,
+        "unit": "g",
+        "dailyValue": "26%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "쇠고기",
+      "닭고기",
+      "토마토",
+      "새우",
+      "오징어"
+    ],
+    "origin": "오징어패티(오징어 - 페루산, 연육 - 미국산), 오징어다리 - 중국산"
+  },
+  {
+    "name": "오징어 얼라이브(갈릭맛)",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 202,
+        "unit": "g"
+      },
+      "calories": 483,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "36%"
+      },
+      "sodium": {
+        "value": 810,
+        "unit": "mg",
+        "dailyValue": "41%"
+      },
+      "sugar": {
+        "value": 12,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 35,
+        "unit": "g",
+        "dailyValue": "23%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "쇠고기",
+      "토마토",
+      "새우",
+      "오징어"
+    ],
+    "origin": "오징어패티(오징어 - 페루산, 연육 - 미국산), 오징어다리 - 중국산"
+  },
+  {
+    "name": "오징어 얼라이브 비프버거(매운맛)",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 187,
+        "unit": "g"
+      },
+      "calories": 498,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sodium": {
+        "value": 800,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "sugar": {
+        "value": 11,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "67%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "쇠고기",
+      "닭고기",
+      "토마토",
+      "오징어"
+    ],
+    "origin": "쇠고기-호주산 오징어다리 - 중국산"
+  },
+  {
+    "name": "오징어 얼라이브 비프버거(갈릭맛)",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 187,
+        "unit": "g"
+      },
+      "calories": 479,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sodium": {
+        "value": 750,
+        "unit": "mg",
+        "dailyValue": "38%"
+      },
+      "sugar": {
+        "value": 11,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "60%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "쇠고기",
+      "토마토",
+      "오징어"
+    ],
+    "origin": "쇠고기-호주산 오징어다리 - 중국산"
+  },
+  {
+    "name": "리아 불고기 베이컨",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 220,
+        "unit": "g"
+      },
+      "calories": 522,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sodium": {
+        "value": 840,
+        "unit": "mg",
+        "dailyValue": "42%"
+      },
+      "sugar": {
+        "value": 11,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "60%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "쇠고기",
+      "닭고기",
+      "토마토",
+      "돼지고기"
+    ],
+    "origin": "쇠고기 - 호주산, 베이컨-돼지고기 외국산"
+  },
+  {
+    "name": "리아 새우 베이컨",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 211,
+        "unit": "g"
+      },
+      "calories": 538,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sodium": {
+        "value": 870,
+        "unit": "mg",
+        "dailyValue": "44%"
+      },
+      "sugar": {
+        "value": 7,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "40%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "토마토",
+      "돼지고기",
+      "새우"
+    ],
+    "origin": "새우패티-베트남산, 베이컨-돼지고기 외국산"
+  },
+  {
+    "name": "리아 새우_베이컨",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 211,
+        "unit": "g"
+      },
+      "calories": 538,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sodium": {
+        "value": 870,
+        "unit": "mg",
+        "dailyValue": "44%"
+      },
+      "sugar": {
+        "value": 7,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "40%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "토마토",
+      "돼지고기",
+      "새우"
+    ],
+    "origin": "명태연육-미국산, 베이컨-돼지고기 외국산"
+  },
+  {
+    "name": "더블 데리버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 170,
+        "unit": "g"
+      },
+      "calories": 446,
+      "protein": {
+        "value": 19,
+        "unit": "g",
+        "dailyValue": "35%"
+      },
+      "sodium": {
+        "value": 740,
+        "unit": "mg",
+        "dailyValue": "37%"
+      },
+      "sugar": {
+        "value": 10,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 70,
+        "unit": "g",
+        "dailyValue": "47%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "쇠고기",
+      "닭고기",
+      "조개류(가리비)"
+    ],
+    "origin": "쇠고기-호주산"
+  },
+  {
+    "name": "더블 치킨버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 205,
+        "unit": "g"
+      },
+      "calories": 478,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "44%"
+      },
+      "sodium": {
+        "value": 950,
+        "unit": "mg",
+        "dailyValue": "48%"
+      },
+      "sugar": {
+        "value": 11,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 50,
+        "unit": "g",
+        "dailyValue": "33%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "닭고기",
+      "땅콩",
+      "쇠고기",
+      "조개류(가리비)"
+    ],
+    "origin": "닭고기-브라질산"
+  },
+  {
+    "name": "더블 클래식치즈버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 213,
+        "unit": "g"
+      },
+      "calories": 731,
+      "protein": {
+        "value": 25,
+        "unit": "g",
+        "dailyValue": "45%"
+      },
+      "sodium": {
+        "value": 1110,
+        "unit": "mg",
+        "dailyValue": "56%"
+      },
+      "sugar": {
+        "value": 6,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 250,
+        "unit": "g",
+        "dailyValue": "167%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "쇠고기"
+    ],
+    "origin": "쇠고기-호주산"
+  },
+  {
+    "name": "왕돈까스버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 318,
+        "unit": "g"
+      },
+      "calories": 901,
+      "protein": {
+        "value": 35,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "sodium": {
+        "value": 1570,
+        "unit": "mg",
+        "dailyValue": "79%"
+      },
+      "sugar": {
+        "value": 14,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 8,
+        "unit": "g",
+        "dailyValue": "53%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "토마토",
+      "우유",
+      "쇠고기",
+      "돼지고기",
+      "조개류(굴)"
+    ],
+    "origin": "돼지고기 - 캐나다산"
+  },
+  {
+    "name": "매운 왕돈까스버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 318,
+        "unit": "g"
+      },
+      "calories": 903,
+      "protein": {
+        "value": 35,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "sodium": {
+        "value": 1580,
+        "unit": "mg",
+        "dailyValue": "79%"
+      },
+      "sugar": {
+        "value": 15,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 8,
+        "unit": "g",
+        "dailyValue": "53%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "토마토",
+      "우유",
+      "쇠고기",
+      "돼지고기",
+      "조개류(굴)"
+    ],
+    "origin": "돼지고기 - 캐나다산"
+  },
+  {
+    "name": "한우불고기버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 236,
+        "unit": "g"
+      },
+      "calories": 572,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "43%"
+      },
+      "sodium": {
+        "value": 797,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "sugar": {
+        "value": 15,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 120,
+        "unit": "g",
+        "dailyValue": "80%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "난류",
+      "우유",
+      "토마토",
+      "쇠고기"
+    ],
+    "origin": "쇠고기 국내산한우"
+  },
+  {
+    "name": "더블한우불고기버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 352,
+        "unit": "g"
+      },
+      "calories": 802,
+      "protein": {
+        "value": 48,
+        "unit": "g",
+        "dailyValue": "87%"
+      },
+      "sodium": {
+        "value": 1150,
+        "unit": "mg",
+        "dailyValue": "58%"
+      },
+      "sugar": {
+        "value": 18,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 200,
+        "unit": "g",
+        "dailyValue": "133%"
+      }
+    },
+    "allergyInfo": [
+      "난류",
+      "밀",
+      "대두",
+      "우유",
+      "쇠고기. 토마토"
+    ],
+    "origin": "쇠고기 국내산한우"
+  },
+  {
+    "name": "리아 불고기 더블 (빅불)",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 270,
+        "unit": "g"
+      },
+      "calories": 761,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sodium": {
+        "value": 1370,
+        "unit": "mg",
+        "dailyValue": "69%"
+      },
+      "sugar": {
+        "value": 12,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "107%"
+      }
+    },
+    "allergyInfo": [
+      "밀",
+      "대두",
+      "난류",
+      "우유",
+      "쇠고기",
+      "토마토",
+      "돼지고기",
+      "닭고기"
+    ],
+    "origin": "쇠고기 호주산"
+  },
+  {
+    "name": "클래식치즈버거",
+    "nutritionalInfo": {
+      "weight": {
+        "value": 146,
+        "unit": "g"
+      },
+      "calories": 492,
+      "protein": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "29%"
+      },
+      "sodium": {
+        "value": 770,
+        "unit": "mg",
+        "dailyValue": "39%"
+      },
+      "sugar": {
+        "value": 5,
+        "unit": "g"
+      },
+      "saturatedFat": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "93%"
+      }
+    },
+    "allergyInfo": [
+      "우유",
+      "대두",
+      "밀",
+      "쇠고기",
+      "난류"
+    ],
+    "origin": "쇠고기 호주산"
+  }
+]

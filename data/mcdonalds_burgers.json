@@ -1,0 +1,1232 @@
+[
+  {
+    "name": {
+      "ko": "빅맥® 세트",
+      "en": "Big Mac® Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 906,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "맥크리스피™ 디럭스 버거 세트",
+      "en": "McCrispy™ Deluxe Burger Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 938,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "맥크리스피™ 클래식 버거 세트",
+      "en": "McCrispy™ Classic Burger Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 926,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "1955® 버거 세트",
+      "en": "1955® Burger Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 896,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "맥치킨® 모짜렐라 세트",
+      "en": "McChicken® MozzarellaMeal"
+    },
+    "nutritionalInfo": {
+      "calories": 1066,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "맥치킨® 세트",
+      "en": "McChicken®Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 847,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "더블 불고기 버거 세트",
+      "en": "Double Bulgogi BurgerMeal"
+    },
+    "nutritionalInfo": {
+      "calories": 959,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "불고기 버거 세트",
+      "en": "Bulgogi BurgerMeal"
+    },
+    "nutritionalInfo": {
+      "calories": 732,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "슈슈 버거 세트",
+      "en": "Supreme Shrimp Burger Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 732,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "슈비 버거 세트",
+      "en": "Shrimp Beef Burger Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 863,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "베이컨 토마토 디럭스 세트",
+      "en": "Bacon Tomato Deluxe Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 894,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "치즈버거 세트",
+      "en": "Cheeseburger Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 641,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "맥크리스피™ 스리라차 마요",
+      "en": "McCrispy™ Sriracha Mayo"
+    },
+    "nutritionalInfo": {
+      "calories": 663,
+      "protein": {
+        "value": 26,
+        "unit": "g",
+        "dailyValue": "47%"
+      },
+      "fat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "47%"
+      },
+      "sodium": {
+        "value": 1508,
+        "unit": "mg",
+        "dailyValue": "75%"
+      },
+      "carbohydrate": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "15%"
+      },
+      "weight": 289
+    }
+  },
+  {
+    "name": {
+      "ko": "베토디 스리라차 마요",
+      "en": "Bacon Tomato Deluxe Sriracha Mayo"
+    },
+    "nutritionalInfo": {
+      "calories": 621,
+      "protein": {
+        "value": 29,
+        "unit": "g",
+        "dailyValue": "52%"
+      },
+      "fat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "80%"
+      },
+      "sodium": {
+        "value": 985,
+        "unit": "mg",
+        "dailyValue": "49%"
+      },
+      "carbohydrate": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "13%"
+      },
+      "weight": 251
+    }
+  },
+  {
+    "name": {
+      "ko": "맥스파이시® 상하이 버거",
+      "en": "McSpicy® Shanghai Burger"
+    },
+    "nutritionalInfo": {
+      "calories": 501,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "44%"
+      },
+      "fat": {
+        "value": 3,
+        "unit": "g",
+        "dailyValue": "17%"
+      },
+      "sodium": {
+        "value": 1102,
+        "unit": "mg",
+        "dailyValue": "55%"
+      },
+      "carbohydrate": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "9%"
+      },
+      "weight": 246
+    }
+  },
+  {
+    "name": {
+      "ko": "토마토 치즈 비프 버거",
+      "en": "Tomato Cheese Beef Burger"
+    },
+    "nutritionalInfo": {
+      "calories": 403,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "32%"
+      },
+      "fat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "44%"
+      },
+      "sodium": {
+        "value": 682,
+        "unit": "mg",
+        "dailyValue": "34%"
+      },
+      "carbohydrate": {
+        "value": 11,
+        "unit": "g",
+        "dailyValue": "11%"
+      },
+      "weight": 200
+    }
+  },
+  {
+    "name": {
+      "ko": "더블 쿼터파운더® 치즈",
+      "en": "Double Quarter Pounder® with Cheese"
+    },
+    "nutritionalInfo": {
+      "calories": 770,
+      "protein": {
+        "value": 50,
+        "unit": "g",
+        "dailyValue": "91%"
+      },
+      "fat": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "136%"
+      },
+      "sodium": {
+        "value": 1151,
+        "unit": "mg",
+        "dailyValue": "58%"
+      },
+      "carbohydrate": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "10%"
+      },
+      "weight": 275
+    }
+  },
+  {
+    "name": {
+      "ko": "쿼터파운더® 치즈",
+      "en": "Quarter Pounder® with Cheese"
+    },
+    "nutritionalInfo": {
+      "calories": 536,
+      "protein": {
+        "value": 31,
+        "unit": "g",
+        "dailyValue": "56%"
+      },
+      "fat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "86%"
+      },
+      "sodium": {
+        "value": 966,
+        "unit": "mg",
+        "dailyValue": "48%"
+      },
+      "carbohydrate": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "10%"
+      },
+      "weight": 198
+    }
+  },
+  {
+    "name": {
+      "ko": "빅맥®",
+      "en": "Big Mac®"
+    },
+    "nutritionalInfo": {
+      "calories": 582,
+      "protein": {
+        "value": 27,
+        "unit": "g",
+        "dailyValue": "49%"
+      },
+      "fat": {
+        "value": 11,
+        "unit": "g",
+        "dailyValue": "71%"
+      },
+      "sodium": {
+        "value": 902,
+        "unit": "mg",
+        "dailyValue": "45%"
+      },
+      "carbohydrate": {
+        "value": 8,
+        "unit": "g",
+        "dailyValue": "8%"
+      },
+      "weight": 223
+    }
+  },
+  {
+    "name": {
+      "ko": "맥크리스피™ 디럭스 버거",
+      "en": "McCrispy™ Deluxe Burger"
+    },
+    "nutritionalInfo": {
+      "calories": 614,
+      "protein": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "42%"
+      },
+      "fat": {
+        "value": 4,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sodium": {
+        "value": 1344,
+        "unit": "mg",
+        "dailyValue": "67%"
+      },
+      "carbohydrate": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "15%"
+      },
+      "weight": 276
+    }
+  },
+  {
+    "name": {
+      "ko": "맥크리스피™ 클래식 버거",
+      "en": "McCrispy™ Classic Burger"
+    },
+    "nutritionalInfo": {
+      "calories": 603,
+      "protein": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "41%"
+      },
+      "fat": {
+        "value": 4,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sodium": {
+        "value": 1332,
+        "unit": "mg",
+        "dailyValue": "67%"
+      },
+      "carbohydrate": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "14%"
+      },
+      "weight": 210
+    }
+  },
+  {
+    "name": {
+      "ko": "1955® 버거",
+      "en": "1955® Burger"
+    },
+    "nutritionalInfo": {
+      "calories": 572,
+      "protein": {
+        "value": 29,
+        "unit": "g",
+        "dailyValue": "53%"
+      },
+      "fat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "68%"
+      },
+      "sodium": {
+        "value": 930,
+        "unit": "mg",
+        "dailyValue": "47%"
+      },
+      "carbohydrate": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "15%"
+      },
+      "weight": 264
+    }
+  },
+  {
+    "name": {
+      "ko": "맥치킨® 모짜렐라",
+      "en": "McChicken® Mozzarella"
+    },
+    "nutritionalInfo": {
+      "calories": 743,
+      "protein": {
+        "value": 31,
+        "unit": "g",
+        "dailyValue": "56%"
+      },
+      "fat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "47%"
+      },
+      "sodium": {
+        "value": 1742,
+        "unit": "mg",
+        "dailyValue": "87%"
+      },
+      "carbohydrate": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "18%"
+      },
+      "weight": 293
+    }
+  },
+  {
+    "name": {
+      "ko": "맥치킨®",
+      "en": "McChicken®"
+    },
+    "nutritionalInfo": {
+      "calories": 523,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "38%"
+      },
+      "fat": {
+        "value": 3,
+        "unit": "g",
+        "dailyValue": "21%"
+      },
+      "sodium": {
+        "value": 1084,
+        "unit": "mg",
+        "dailyValue": "54%"
+      },
+      "carbohydrate": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "7%"
+      },
+      "weight": 206
+    }
+  },
+  {
+    "name": {
+      "ko": "더블 불고기 버거",
+      "en": "Double Bulgogi Burger"
+    },
+    "nutritionalInfo": {
+      "calories": 635,
+      "protein": {
+        "value": 26,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "fat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "86%"
+      },
+      "sodium": {
+        "value": 997,
+        "unit": "mg",
+        "dailyValue": "50%"
+      },
+      "carbohydrate": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "15%"
+      },
+      "weight": 237
+    }
+  },
+  {
+    "name": {
+      "ko": "불고기 버거",
+      "en": "Bulgogi Burger"
+    },
+    "nutritionalInfo": {
+      "calories": 409,
+      "protein": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "26%"
+      },
+      "fat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "sodium": {
+        "value": 670,
+        "unit": "mg",
+        "dailyValue": "33%"
+      },
+      "carbohydrate": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "14%"
+      },
+      "weight": 167
+    }
+  },
+  {
+    "name": {
+      "ko": "슈슈 버거",
+      "en": "Supreme Shrimp Burger"
+    },
+    "nutritionalInfo": {
+      "calories": 409,
+      "protein": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "22%"
+      },
+      "fat": {
+        "value": 1,
+        "unit": "g",
+        "dailyValue": "12%"
+      },
+      "sodium": {
+        "value": 808,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "carbohydrate": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "13%"
+      },
+      "weight": 224
+    }
+  },
+  {
+    "name": {
+      "ko": "슈비 버거",
+      "en": "Shrimp Beef Burger"
+    },
+    "nutritionalInfo": {
+      "calories": 540,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "36%"
+      },
+      "fat": {
+        "value": 5,
+        "unit": "g",
+        "dailyValue": "35%"
+      },
+      "sodium": {
+        "value": 1001,
+        "unit": "mg",
+        "dailyValue": "50%"
+      },
+      "carbohydrate": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "15%"
+      },
+      "weight": 269
+    }
+  },
+  {
+    "name": {
+      "ko": "베이컨 토마토 디럭스",
+      "en": "Bacon Tomato Deluxe"
+    },
+    "nutritionalInfo": {
+      "calories": 570,
+      "protein": {
+        "value": 29,
+        "unit": "g",
+        "dailyValue": "52%"
+      },
+      "fat": {
+        "value": 11,
+        "unit": "g",
+        "dailyValue": "72%"
+      },
+      "sodium": {
+        "value": 933,
+        "unit": "mg",
+        "dailyValue": "47%"
+      },
+      "carbohydrate": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "14%"
+      },
+      "weight": 247
+    }
+  },
+  {
+    "name": {
+      "ko": "치즈버거",
+      "en": "Cheeseburger"
+    },
+    "nutritionalInfo": {
+      "calories": 318,
+      "protein": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "29%"
+      },
+      "fat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sodium": {
+        "value": 612,
+        "unit": "mg",
+        "dailyValue": "31%"
+      },
+      "carbohydrate": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "7%"
+      },
+      "weight": 115
+    }
+  },
+  {
+    "name": {
+      "ko": "더블 치즈버거 세트",
+      "en": "Double Cheeseburger Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 802,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "트리플 치즈버거 세트",
+      "en": "Triple Cheeseburger Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 943,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "더블 치즈버거",
+      "en": "Double Cheeseburger"
+    },
+    "nutritionalInfo": {
+      "calories": 479,
+      "protein": {
+        "value": 27,
+        "unit": "g",
+        "dailyValue": "49%"
+      },
+      "fat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "78%"
+      },
+      "sodium": {
+        "value": 896,
+        "unit": "mg",
+        "dailyValue": "45%"
+      },
+      "carbohydrate": {
+        "value": 8,
+        "unit": "g",
+        "dailyValue": "8%"
+      },
+      "weight": 167
+    }
+  },
+  {
+    "name": {
+      "ko": "트리플 치즈버거",
+      "en": "Triple Cheeseburger"
+    },
+    "nutritionalInfo": {
+      "calories": 620,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "fat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "sodium": {
+        "value": 1230,
+        "unit": "mg",
+        "dailyValue": "61%"
+      },
+      "carbohydrate": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "9%"
+      },
+      "weight": 219
+    }
+  },
+  {
+    "name": {
+      "ko": "햄버거",
+      "en": "Hamburger"
+    },
+    "nutritionalInfo": {
+      "calories": 266,
+      "protein": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "24%"
+      },
+      "fat": {
+        "value": 3,
+        "unit": "g",
+        "dailyValue": "23%"
+      },
+      "sodium": {
+        "value": 450,
+        "unit": "mg",
+        "dailyValue": "22%"
+      },
+      "carbohydrate": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "7%"
+      },
+      "weight": 101
+    }
+  },
+  {
+    "name": {
+      "ko": "맥크리스피™ 스리라차 마요 세트",
+      "en": "McCrispy™ Sriracha Mayo Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 987,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "베토디 스리라차 마요 세트",
+      "en": "Bacon Tomato Deluxe Sriracha Mayo Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 945,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "맥스파이시® 상하이 버거 세트",
+      "en": "McSpicy® Shanghai Burger Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 825,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "토마토 치즈 비프 버거 세트",
+      "en": "Tomato Cheese Beef Burger Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 727,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "더블 쿼터파운더® 치즈 세트",
+      "en": "Double Quarter Pounder®with Cheese Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 1094,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  },
+  {
+    "name": {
+      "ko": "쿼터파운더® 치즈 세트",
+      "en": "Quarter Pounder®with Cheese Meal"
+    },
+    "nutritionalInfo": {
+      "calories": 859,
+      "protein": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "fat": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "sodium": {
+        "value": null,
+        "unit": "mg",
+        "dailyValue": "%"
+      },
+      "carbohydrate": {
+        "value": null,
+        "unit": "g",
+        "dailyValue": "%"
+      },
+      "weight": null
+    }
+  }
+]

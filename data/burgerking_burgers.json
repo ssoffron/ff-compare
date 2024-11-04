@@ -1,0 +1,5867 @@
+[
+  {
+    "name": "더블비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 568,
+      "protein": {
+        "value": 27,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 800,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "80%"
+      },
+      "weight": 191
+    }
+  },
+  {
+    "name": "비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "27%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 495,
+        "unit": "mg",
+        "dailyValue": "25%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 137
+    }
+  },
+  {
+    "name": "통새우와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 431,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "32%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 695,
+        "unit": "mg",
+        "dailyValue": "35%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "weight": 175
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼",
+    "nutritionalInfo": {
+      "calories": 782,
+      "protein": {
+        "value": 32,
+        "unit": "g",
+        "dailyValue": "58%"
+      },
+      "sugar": 9,
+      "sodium": {
+        "value": 1024,
+        "unit": "mg",
+        "dailyValue": "51%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "84%"
+      },
+      "weight": 298
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1366,
+      "protein": {
+        "value": 37,
+        "unit": "g",
+        "dailyValue": "66%"
+      },
+      "sugar": 65,
+      "sodium": {
+        "value": 1488,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "weight": 971
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1211,
+      "protein": {
+        "value": 35,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "sugar": 48,
+      "sodium": {
+        "value": 1374,
+        "unit": "mg",
+        "dailyValue": "69%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "107%"
+      },
+      "weight": 776
+    }
+  },
+  {
+    "name": "더블비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 568,
+      "protein": {
+        "value": 27,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 800,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "80%"
+      },
+      "weight": 191
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 862,
+      "protein": {
+        "value": 38,
+        "unit": "g",
+        "dailyValue": "70%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1690,
+        "unit": "mg",
+        "dailyValue": "85%"
+      },
+      "saturatedFat": {
+        "value": 19,
+        "unit": "g",
+        "dailyValue": "128%"
+      },
+      "weight": 327
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1447,
+      "protein": {
+        "value": 43,
+        "unit": "g",
+        "dailyValue": "79%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 2155,
+        "unit": "mg",
+        "dailyValue": "108%"
+      },
+      "saturatedFat": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "158%"
+      },
+      "weight": 1000
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1291,
+      "protein": {
+        "value": 42,
+        "unit": "g",
+        "dailyValue": "76%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 2040,
+        "unit": "mg",
+        "dailyValue": "102%"
+      },
+      "saturatedFat": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "151%"
+      },
+      "weight": 805
+    }
+  },
+  {
+    "name": "불고기와퍼",
+    "nutritionalInfo": {
+      "calories": 755,
+      "protein": {
+        "value": 32,
+        "unit": "g",
+        "dailyValue": "58%"
+      },
+      "sugar": 11,
+      "sodium": {
+        "value": 1165,
+        "unit": "mg",
+        "dailyValue": "58%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "88%"
+      },
+      "weight": 300
+    }
+  },
+  {
+    "name": "불고기와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1340,
+      "protein": {
+        "value": 37,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "sugar": 67,
+      "sodium": {
+        "value": 1629,
+        "unit": "mg",
+        "dailyValue": "81%"
+      },
+      "saturatedFat": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "118%"
+      },
+      "weight": 973
+    }
+  },
+  {
+    "name": "불고기와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1185,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 50,
+      "sodium": {
+        "value": 1514,
+        "unit": "mg",
+        "dailyValue": "76%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "111%"
+      },
+      "weight": 778
+    }
+  },
+  {
+    "name": "불고기와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 424,
+      "protein": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "29%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 632,
+        "unit": "mg",
+        "dailyValue": "32%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "weight": 164
+    }
+  },
+  {
+    "name": "불고기와퍼주니어라지세트",
+    "nutritionalInfo": {
+      "calories": 1008,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "38%"
+      },
+      "sugar": 61,
+      "sodium": {
+        "value": 1096,
+        "unit": "mg",
+        "dailyValue": "55%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "69%"
+      },
+      "weight": 837
+    }
+  },
+  {
+    "name": "불고기와퍼주니어세트",
+    "nutritionalInfo": {
+      "calories": 853,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "36%"
+      },
+      "sugar": 44,
+      "sodium": {
+        "value": 982,
+        "unit": "mg",
+        "dailyValue": "49%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "62%"
+      },
+      "weight": 642
+    }
+  },
+  {
+    "name": "비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "27%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 495,
+        "unit": "mg",
+        "dailyValue": "25%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 137
+    }
+  },
+  {
+    "name": "와퍼",
+    "nutritionalInfo": {
+      "calories": 723,
+      "protein": {
+        "value": 31,
+        "unit": "g",
+        "dailyValue": "56%"
+      },
+      "sugar": 10,
+      "sodium": {
+        "value": 1125,
+        "unit": "mg",
+        "dailyValue": "56%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "85%"
+      },
+      "weight": 293
+    }
+  },
+  {
+    "name": "와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1308,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 66,
+      "sodium": {
+        "value": 1589,
+        "unit": "mg",
+        "dailyValue": "79%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "weight": 966
+    }
+  },
+  {
+    "name": "와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1152,
+      "protein": {
+        "value": 34,
+        "unit": "g",
+        "dailyValue": "63%"
+      },
+      "sugar": 50,
+      "sodium": {
+        "value": 1475,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "108%"
+      },
+      "weight": 771
+    }
+  },
+  {
+    "name": "와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 570,
+        "unit": "mg",
+        "dailyValue": "29%"
+      },
+      "saturatedFat": {
+        "value": 5,
+        "unit": "g",
+        "dailyValue": "34%"
+      },
+      "weight": 160
+    }
+  },
+  {
+    "name": "와퍼주니어 라지세트 ",
+    "nutritionalInfo": {
+      "calories": 971,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 60,
+      "sodium": {
+        "value": 1035,
+        "unit": "mg",
+        "dailyValue": "52%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "weight": 833
+    }
+  },
+  {
+    "name": "와퍼주니어 세트",
+    "nutritionalInfo": {
+      "calories": 816,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "sugar": 43,
+      "sodium": {
+        "value": 920,
+        "unit": "mg",
+        "dailyValue": "46%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "57%"
+      },
+      "weight": 638
+    }
+  },
+  {
+    "name": "치즈버거",
+    "nutritionalInfo": {
+      "calories": 392,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "30%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 789,
+        "unit": "mg",
+        "dailyValue": "39%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "47%"
+      },
+      "weight": 134
+    }
+  },
+  {
+    "name": "치즈버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 977,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 62,
+      "sodium": {
+        "value": 1254,
+        "unit": "mg",
+        "dailyValue": "63%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "77%"
+      },
+      "weight": 807
+    }
+  },
+  {
+    "name": "치즈버거 세트",
+    "nutritionalInfo": {
+      "calories": 821,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "sugar": 45,
+      "sodium": {
+        "value": 1139,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "69%"
+      },
+      "weight": 612
+    }
+  },
+  {
+    "name": "치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 817,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1607,
+        "unit": "mg",
+        "dailyValue": "80%"
+      },
+      "saturatedFat": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "119%"
+      },
+      "weight": 317
+    }
+  },
+  {
+    "name": "치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1402,
+      "protein": {
+        "value": 41,
+        "unit": "g",
+        "dailyValue": "74%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 2071,
+        "unit": "mg",
+        "dailyValue": "104%"
+      },
+      "saturatedFat": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "150%"
+      },
+      "weight": 990
+    }
+  },
+  {
+    "name": "치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1247,
+      "protein": {
+        "value": 40,
+        "unit": "g",
+        "dailyValue": "72%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 1957,
+        "unit": "mg",
+        "dailyValue": "98%"
+      },
+      "saturatedFat": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "142%"
+      },
+      "weight": 795
+    }
+  },
+  {
+    "name": "치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 433,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 796,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 8,
+        "unit": "g",
+        "dailyValue": "50%"
+      },
+      "weight": 172
+    }
+  },
+  {
+    "name": "치즈와퍼주니어 라지세트 ",
+    "nutritionalInfo": {
+      "calories": 1030,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "43%"
+      },
+      "sugar": 61,
+      "sodium": {
+        "value": 1225,
+        "unit": "mg",
+        "dailyValue": "62%"
+      },
+      "saturatedFat": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "92%"
+      },
+      "weight": 843
+    }
+  },
+  {
+    "name": "치즈와퍼주니어 세트",
+    "nutritionalInfo": {
+      "calories": 862,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 44,
+      "sodium": {
+        "value": 1146,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 11,
+        "unit": "g",
+        "dailyValue": "73%"
+      },
+      "weight": 650
+    }
+  },
+  {
+    "name": "콰트로치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 478,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 847,
+        "unit": "mg",
+        "dailyValue": "42%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "weight": 182
+    }
+  },
+  {
+    "name": "콰트로치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 478,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 847,
+        "unit": "mg",
+        "dailyValue": "42%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "weight": 182
+    }
+  },
+  {
+    "name": "통새우와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 431,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "32%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 695,
+        "unit": "mg",
+        "dailyValue": "35%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "weight": 175
+    }
+  },
+  {
+    "name": "오리지널스 화이트페타싱글 라지세트",
+    "nutritionalInfo": {
+      "calories": 1466,
+      "protein": {
+        "value": 42,
+        "unit": "g",
+        "dailyValue": "77%"
+      },
+      "sugar": 71,
+      "sodium": {
+        "value": 2046,
+        "unit": "mg",
+        "dailyValue": "102%"
+      },
+      "saturatedFat": {
+        "value": 29,
+        "unit": "g",
+        "dailyValue": "192%"
+      },
+      "weight": 978
+    }
+  },
+  {
+    "name": "오리지널스 화이트 페타 싱글 세트",
+    "nutritionalInfo": {
+      "calories": 1311,
+      "protein": {
+        "value": 41,
+        "unit": "g",
+        "dailyValue": "75%"
+      },
+      "sugar": 54,
+      "sodium": {
+        "value": 1931,
+        "unit": "mg",
+        "dailyValue": "97%"
+      },
+      "saturatedFat": {
+        "value": 28,
+        "unit": "g",
+        "dailyValue": "184%"
+      },
+      "weight": 783
+    }
+  },
+  {
+    "name": "오리지널스 화이트 페타 싱글",
+    "nutritionalInfo": {
+      "calories": 881,
+      "protein": {
+        "value": 38,
+        "unit": "g",
+        "dailyValue": "68%"
+      },
+      "sugar": 15,
+      "sodium": {
+        "value": 1582,
+        "unit": "mg",
+        "dailyValue": "79%"
+      },
+      "saturatedFat": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "162%"
+      },
+      "weight": 305
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1366,
+      "protein": {
+        "value": 37,
+        "unit": "g",
+        "dailyValue": "66%"
+      },
+      "sugar": 65,
+      "sodium": {
+        "value": 1488,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "weight": 971
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1211,
+      "protein": {
+        "value": 35,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "sugar": 48,
+      "sodium": {
+        "value": 1374,
+        "unit": "mg",
+        "dailyValue": "69%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "107%"
+      },
+      "weight": 776
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼",
+    "nutritionalInfo": {
+      "calories": 782,
+      "protein": {
+        "value": 32,
+        "unit": "g",
+        "dailyValue": "58%"
+      },
+      "sugar": 9,
+      "sodium": {
+        "value": 1024,
+        "unit": "mg",
+        "dailyValue": "51%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "84%"
+      },
+      "weight": 298
+    }
+  },
+  {
+    "name": "두툼버거 더블 라지세트",
+    "nutritionalInfo": {
+      "calories": 1854,
+      "protein": {
+        "value": 78,
+        "unit": "g",
+        "dailyValue": "142%"
+      },
+      "sugar": 70,
+      "sodium": {
+        "value": 2621,
+        "unit": "mg",
+        "dailyValue": "131%"
+      },
+      "saturatedFat": {
+        "value": 28,
+        "unit": "g",
+        "dailyValue": "189%"
+      },
+      "weight": 1116
+    }
+  },
+  {
+    "name": "두툼버거 더블 세트",
+    "nutritionalInfo": {
+      "calories": 1699,
+      "protein": {
+        "value": 77,
+        "unit": "g",
+        "dailyValue": "140%"
+      },
+      "sugar": 53,
+      "sodium": {
+        "value": 2506,
+        "unit": "mg",
+        "dailyValue": "125%"
+      },
+      "saturatedFat": {
+        "value": 27,
+        "unit": "g",
+        "dailyValue": "182%"
+      },
+      "weight": 921
+    }
+  },
+  {
+    "name": "두툼버거 더블",
+    "nutritionalInfo": {
+      "calories": 1269,
+      "protein": {
+        "value": 73,
+        "unit": "g",
+        "dailyValue": "133%"
+      },
+      "sugar": 14,
+      "sodium": {
+        "value": 2157,
+        "unit": "mg",
+        "dailyValue": "108%"
+      },
+      "saturatedFat": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "159%"
+      },
+      "weight": 443
+    }
+  },
+  {
+    "name": "몬스터와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1695,
+      "protein": {
+        "value": 57,
+        "unit": "g",
+        "dailyValue": "104%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 2643,
+        "unit": "mg",
+        "dailyValue": "132%"
+      },
+      "saturatedFat": {
+        "value": 26,
+        "unit": "g",
+        "dailyValue": "176%"
+      },
+      "weight": 1082
+    }
+  },
+  {
+    "name": "몬스터와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1540,
+      "protein": {
+        "value": 56,
+        "unit": "g",
+        "dailyValue": "102%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 2528,
+        "unit": "mg",
+        "dailyValue": "126%"
+      },
+      "saturatedFat": {
+        "value": 25,
+        "unit": "g",
+        "dailyValue": "168%"
+      },
+      "weight": 887
+    }
+  },
+  {
+    "name": "몬스터와퍼",
+    "nutritionalInfo": {
+      "calories": 1110,
+      "protein": {
+        "value": 53,
+        "unit": "g",
+        "dailyValue": "96%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 2178,
+        "unit": "mg",
+        "dailyValue": "109%"
+      },
+      "saturatedFat": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "145%"
+      },
+      "weight": 409
+    }
+  },
+  {
+    "name": "불고기와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1340,
+      "protein": {
+        "value": 37,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "sugar": 67,
+      "sodium": {
+        "value": 1629,
+        "unit": "mg",
+        "dailyValue": "81%"
+      },
+      "saturatedFat": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "118%"
+      },
+      "weight": 973
+    }
+  },
+  {
+    "name": "불고기와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1185,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 50,
+      "sodium": {
+        "value": 1514,
+        "unit": "mg",
+        "dailyValue": "76%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "111%"
+      },
+      "weight": 778
+    }
+  },
+  {
+    "name": "불고기와퍼",
+    "nutritionalInfo": {
+      "calories": 755,
+      "protein": {
+        "value": 32,
+        "unit": "g",
+        "dailyValue": "58%"
+      },
+      "sugar": 11,
+      "sodium": {
+        "value": 1165,
+        "unit": "mg",
+        "dailyValue": "58%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "88%"
+      },
+      "weight": 300
+    }
+  },
+  {
+    "name": "불고기와퍼주니어라지세트",
+    "nutritionalInfo": {
+      "calories": 1008,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "38%"
+      },
+      "sugar": 61,
+      "sodium": {
+        "value": 1096,
+        "unit": "mg",
+        "dailyValue": "55%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "69%"
+      },
+      "weight": 837
+    }
+  },
+  {
+    "name": "불고기와퍼주니어세트",
+    "nutritionalInfo": {
+      "calories": 853,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "36%"
+      },
+      "sugar": 44,
+      "sodium": {
+        "value": 982,
+        "unit": "mg",
+        "dailyValue": "49%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "62%"
+      },
+      "weight": 642
+    }
+  },
+  {
+    "name": "불고기와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 424,
+      "protein": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "29%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 632,
+        "unit": "mg",
+        "dailyValue": "32%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "weight": 164
+    }
+  },
+  {
+    "name": "불맛 더블치즈앤베이컨버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1574,
+      "protein": {
+        "value": 65,
+        "unit": "g",
+        "dailyValue": "117%"
+      },
+      "sugar": 68,
+      "sodium": {
+        "value": 2786,
+        "unit": "mg",
+        "dailyValue": "139%"
+      },
+      "saturatedFat": {
+        "value": 33,
+        "unit": "g",
+        "dailyValue": "217%"
+      },
+      "weight": 1026
+    }
+  },
+  {
+    "name": "불맛 더블치즈앤베이컨버거 세트",
+    "nutritionalInfo": {
+      "calories": 1418,
+      "protein": {
+        "value": 63,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "sugar": 51,
+      "sodium": {
+        "value": 2671,
+        "unit": "mg",
+        "dailyValue": "134%"
+      },
+      "saturatedFat": {
+        "value": 31,
+        "unit": "g",
+        "dailyValue": "210%"
+      },
+      "weight": 831
+    }
+  },
+  {
+    "name": "불맛 더블치즈베이컨버거",
+    "nutritionalInfo": {
+      "calories": 989,
+      "protein": {
+        "value": 60,
+        "unit": "g",
+        "dailyValue": "109%"
+      },
+      "sugar": 11,
+      "sodium": {
+        "value": 2322,
+        "unit": "mg",
+        "dailyValue": "116%"
+      },
+      "saturatedFat": {
+        "value": 28,
+        "unit": "g",
+        "dailyValue": "187%"
+      },
+      "weight": 353
+    }
+  },
+  {
+    "name": "치즈버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 977,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 62,
+      "sodium": {
+        "value": 1254,
+        "unit": "mg",
+        "dailyValue": "63%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "77%"
+      },
+      "weight": 807
+    }
+  },
+  {
+    "name": "치즈버거 세트",
+    "nutritionalInfo": {
+      "calories": 821,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "sugar": 45,
+      "sodium": {
+        "value": 1139,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "69%"
+      },
+      "weight": 612
+    }
+  },
+  {
+    "name": "치즈버거",
+    "nutritionalInfo": {
+      "calories": 392,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "30%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 789,
+        "unit": "mg",
+        "dailyValue": "39%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "47%"
+      },
+      "weight": 134
+    }
+  },
+  {
+    "name": "통새우슈림프버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1108,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 65,
+      "sodium": {
+        "value": 1564,
+        "unit": "mg",
+        "dailyValue": "78%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "weight": 867
+    }
+  },
+  {
+    "name": "통새우슈림프버거 세트",
+    "nutritionalInfo": {
+      "calories": 953,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "36%"
+      },
+      "sugar": 48,
+      "sodium": {
+        "value": 1449,
+        "unit": "mg",
+        "dailyValue": "72%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "60%"
+      },
+      "weight": 672
+    }
+  },
+  {
+    "name": "통새우슈림프버거",
+    "nutritionalInfo": {
+      "calories": 523,
+      "protein": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "30%"
+      },
+      "sugar": 9,
+      "sodium": {
+        "value": 1099,
+        "unit": "mg",
+        "dailyValue": "55%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 194
+    }
+  },
+  {
+    "name": "슈림프버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1101,
+      "protein": {
+        "value": 19,
+        "unit": "g",
+        "dailyValue": "35%"
+      },
+      "sugar": 62,
+      "sodium": {
+        "value": 1545,
+        "unit": "mg",
+        "dailyValue": "77%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "68%"
+      },
+      "weight": 851
+    }
+  },
+  {
+    "name": "슈림프버거 세트",
+    "nutritionalInfo": {
+      "calories": 946,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sugar": 45,
+      "sodium": {
+        "value": 1430,
+        "unit": "mg",
+        "dailyValue": "71%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "60%"
+      },
+      "weight": 656
+    }
+  },
+  {
+    "name": "슈림프버거",
+    "nutritionalInfo": {
+      "calories": 516,
+      "protein": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "26%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 1080,
+        "unit": "mg",
+        "dailyValue": "54%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 178
+    }
+  },
+  {
+    "name": "치킨킹BLT라지세트",
+    "nutritionalInfo": {
+      "calories": 1351,
+      "protein": {
+        "value": 31,
+        "unit": "g",
+        "dailyValue": "56%"
+      },
+      "sugar": 69,
+      "sodium": {
+        "value": 1569,
+        "unit": "mg",
+        "dailyValue": "78%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "108%"
+      },
+      "weight": 952
+    }
+  },
+  {
+    "name": "치킨킹BLT세트",
+    "nutritionalInfo": {
+      "calories": 1196,
+      "protein": {
+        "value": 30,
+        "unit": "g",
+        "dailyValue": "54%"
+      },
+      "sugar": 52,
+      "sodium": {
+        "value": 1454,
+        "unit": "mg",
+        "dailyValue": "73%"
+      },
+      "saturatedFat": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "100%"
+      },
+      "weight": 757
+    }
+  },
+  {
+    "name": "치킨킹BLT",
+    "nutritionalInfo": {
+      "calories": 766,
+      "protein": {
+        "value": 26,
+        "unit": "g",
+        "dailyValue": "47%"
+      },
+      "sugar": 12,
+      "sodium": {
+        "value": 1105,
+        "unit": "mg",
+        "dailyValue": "55%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "78%"
+      },
+      "weight": 279
+    }
+  },
+  {
+    "name": "트러플 머쉬룸 와퍼 팩 1",
+    "nutritionalInfo": {
+      "calories": 2013,
+      "protein": {
+        "value": 62,
+        "unit": "g",
+        "dailyValue": "112%"
+      },
+      "sugar": 90,
+      "sodium": {
+        "value": 2550,
+        "unit": "mg",
+        "dailyValue": "128%"
+      },
+      "saturatedFat": {
+        "value": 32,
+        "unit": "g",
+        "dailyValue": "211%"
+      },
+      "weight": 1426
+    }
+  },
+  {
+    "name": "트러플 머쉬룸 와퍼 팩 2",
+    "nutritionalInfo": {
+      "calories": 2236,
+      "protein": {
+        "value": 75,
+        "unit": "g",
+        "dailyValue": "137%"
+      },
+      "sugar": 89,
+      "sodium": {
+        "value": 2595,
+        "unit": "mg",
+        "dailyValue": "130%"
+      },
+      "saturatedFat": {
+        "value": 40,
+        "unit": "g",
+        "dailyValue": "265%"
+      },
+      "weight": 1453
+    }
+  },
+  {
+    "name": "블랙바비큐콰트로치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1581,
+      "protein": {
+        "value": 51,
+        "unit": "g",
+        "dailyValue": "93%"
+      },
+      "sugar": 66,
+      "sodium": {
+        "value": 2091,
+        "unit": "mg",
+        "dailyValue": "105%"
+      },
+      "saturatedFat": {
+        "value": 29,
+        "unit": "g",
+        "dailyValue": "193%"
+      },
+      "weight": 1001
+    }
+  },
+  {
+    "name": "블랙바비큐콰트로치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1426,
+      "protein": {
+        "value": 50,
+        "unit": "g",
+        "dailyValue": "91%"
+      },
+      "sugar": 49,
+      "sodium": {
+        "value": 1976,
+        "unit": "mg",
+        "dailyValue": "99%"
+      },
+      "saturatedFat": {
+        "value": 28,
+        "unit": "g",
+        "dailyValue": "185%"
+      },
+      "weight": 806
+    }
+  },
+  {
+    "name": "블랙바비큐콰트로치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 996,
+      "protein": {
+        "value": 46,
+        "unit": "g",
+        "dailyValue": "84%"
+      },
+      "sugar": 10,
+      "sodium": {
+        "value": 1626,
+        "unit": "mg",
+        "dailyValue": "81%"
+      },
+      "saturatedFat": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "162%"
+      },
+      "weight": 328
+    }
+  },
+  {
+    "name": "트러플 머쉬룸 와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1358,
+      "protein": {
+        "value": 43,
+        "unit": "g",
+        "dailyValue": "78%"
+      },
+      "sugar": 63,
+      "sodium": {
+        "value": 1678,
+        "unit": "mg",
+        "dailyValue": "84%"
+      },
+      "saturatedFat": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "139%"
+      },
+      "weight": 1003
+    }
+  },
+  {
+    "name": "트러플 머쉬룸 와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1203,
+      "protein": {
+        "value": 42,
+        "unit": "g",
+        "dailyValue": "76%"
+      },
+      "sugar": 46,
+      "sodium": {
+        "value": 1563,
+        "unit": "mg",
+        "dailyValue": "78%"
+      },
+      "saturatedFat": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "132%"
+      },
+      "weight": 808
+    }
+  },
+  {
+    "name": "트러플 머쉬룸 와퍼",
+    "nutritionalInfo": {
+      "calories": 773,
+      "protein": {
+        "value": 38,
+        "unit": "g",
+        "dailyValue": "69%"
+      },
+      "sugar": 7,
+      "sodium": {
+        "value": 1214,
+        "unit": "mg",
+        "dailyValue": "61%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "109%"
+      },
+      "weight": 330
+    }
+  },
+  {
+    "name": "치킨킹라지세트",
+    "nutritionalInfo": {
+      "calories": 1276,
+      "protein": {
+        "value": 29,
+        "unit": "g",
+        "dailyValue": "53%"
+      },
+      "sugar": 65,
+      "sodium": {
+        "value": 1530,
+        "unit": "mg",
+        "dailyValue": "76%"
+      },
+      "saturatedFat": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "96%"
+      },
+      "weight": 903
+    }
+  },
+  {
+    "name": "치킨킹세트",
+    "nutritionalInfo": {
+      "calories": 1121,
+      "protein": {
+        "value": 28,
+        "unit": "g",
+        "dailyValue": "51%"
+      },
+      "sugar": 48,
+      "sodium": {
+        "value": 1415,
+        "unit": "mg",
+        "dailyValue": "71%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "89%"
+      },
+      "weight": 708
+    }
+  },
+  {
+    "name": "치킨킹",
+    "nutritionalInfo": {
+      "calories": 691,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "44%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1065,
+        "unit": "mg",
+        "dailyValue": "53%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "66%"
+      },
+      "weight": 230
+    }
+  },
+  {
+    "name": "블랙바비큐와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1381,
+      "protein": {
+        "value": 45,
+        "unit": "g",
+        "dailyValue": "81%"
+      },
+      "sugar": 72,
+      "sodium": {
+        "value": 1787,
+        "unit": "mg",
+        "dailyValue": "89%"
+      },
+      "saturatedFat": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "131%"
+      },
+      "weight": 965
+    }
+  },
+  {
+    "name": "블랙바비큐와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1226,
+      "protein": {
+        "value": 43,
+        "unit": "g",
+        "dailyValue": "79%"
+      },
+      "sugar": 55,
+      "sodium": {
+        "value": 1672,
+        "unit": "mg",
+        "dailyValue": "84%"
+      },
+      "saturatedFat": {
+        "value": 19,
+        "unit": "g",
+        "dailyValue": "124%"
+      },
+      "weight": 770
+    }
+  },
+  {
+    "name": "블랙바비큐와퍼",
+    "nutritionalInfo": {
+      "calories": 796,
+      "protein": {
+        "value": 40,
+        "unit": "g",
+        "dailyValue": "72%"
+      },
+      "sugar": 16,
+      "sodium": {
+        "value": 1322,
+        "unit": "mg",
+        "dailyValue": "66%"
+      },
+      "saturatedFat": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "101%"
+      },
+      "weight": 292
+    }
+  },
+  {
+    "name": "롱치킨버거",
+    "nutritionalInfo": {
+      "calories": 615,
+      "protein": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "41%"
+      },
+      "sugar": 7,
+      "sodium": {
+        "value": 1223,
+        "unit": "mg",
+        "dailyValue": "61%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "45%"
+      },
+      "weight": 204
+    }
+  },
+  {
+    "name": "롱치킨버거",
+    "nutritionalInfo": {
+      "calories": 615,
+      "protein": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "41%"
+      },
+      "sugar": 7,
+      "sodium": {
+        "value": 1223,
+        "unit": "mg",
+        "dailyValue": "61%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "45%"
+      },
+      "weight": 204
+    }
+  },
+  {
+    "name": "바비큐치킨버거",
+    "nutritionalInfo": {
+      "calories": 485,
+      "protein": {
+        "value": 19,
+        "unit": "g",
+        "dailyValue": "34%"
+      },
+      "sugar": 7,
+      "sodium": {
+        "value": 802,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 5,
+        "unit": "g",
+        "dailyValue": "35%"
+      },
+      "weight": 173
+    }
+  },
+  {
+    "name": "바비큐치킨버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1061,
+      "protein": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "43%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 1264,
+        "unit": "mg",
+        "dailyValue": "63%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "68%"
+      },
+      "weight": 841
+    }
+  },
+  {
+    "name": "바비큐치킨버거 세트",
+    "nutritionalInfo": {
+      "calories": 906,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 1150,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "61%"
+      },
+      "weight": 646
+    }
+  },
+  {
+    "name": "비프&슈림프버거",
+    "nutritionalInfo": {
+      "calories": 645,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "44%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 1131,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "63%"
+      },
+      "weight": 249
+    }
+  },
+  {
+    "name": "비프&슈림프버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1230,
+      "protein": {
+        "value": 29,
+        "unit": "g",
+        "dailyValue": "53%"
+      },
+      "sugar": 63,
+      "sodium": {
+        "value": 1596,
+        "unit": "mg",
+        "dailyValue": "80%"
+      },
+      "saturatedFat": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "93%"
+      },
+      "weight": 922
+    }
+  },
+  {
+    "name": "비프&슈림프버거 세트",
+    "nutritionalInfo": {
+      "calories": 1075,
+      "protein": {
+        "value": 28,
+        "unit": "g",
+        "dailyValue": "50%"
+      },
+      "sugar": 46,
+      "sodium": {
+        "value": 1481,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "86%"
+      },
+      "weight": 727
+    }
+  },
+  {
+    "name": "슈림프버거",
+    "nutritionalInfo": {
+      "calories": 516,
+      "protein": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "26%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 1080,
+        "unit": "mg",
+        "dailyValue": "54%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 178
+    }
+  },
+  {
+    "name": "슈림프버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1101,
+      "protein": {
+        "value": 19,
+        "unit": "g",
+        "dailyValue": "35%"
+      },
+      "sugar": 62,
+      "sodium": {
+        "value": 1545,
+        "unit": "mg",
+        "dailyValue": "77%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "68%"
+      },
+      "weight": 851
+    }
+  },
+  {
+    "name": "슈림프버거 세트",
+    "nutritionalInfo": {
+      "calories": 946,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sugar": 45,
+      "sodium": {
+        "value": 1430,
+        "unit": "mg",
+        "dailyValue": "71%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "60%"
+      },
+      "weight": 656
+    }
+  },
+  {
+    "name": "치킨버거",
+    "nutritionalInfo": {
+      "calories": 544,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 858,
+        "unit": "mg",
+        "dailyValue": "43%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "weight": 183
+    }
+  },
+  {
+    "name": "치킨버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1128,
+      "protein": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "42%"
+      },
+      "sugar": 60,
+      "sodium": {
+        "value": 1323,
+        "unit": "mg",
+        "dailyValue": "66%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "78%"
+      },
+      "weight": 856
+    }
+  },
+  {
+    "name": "치킨버거 세트",
+    "nutritionalInfo": {
+      "calories": 973,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 43,
+      "sodium": {
+        "value": 1208,
+        "unit": "mg",
+        "dailyValue": "60%"
+      },
+      "saturatedFat": {
+        "value": 11,
+        "unit": "g",
+        "dailyValue": "70%"
+      },
+      "weight": 661
+    }
+  },
+  {
+    "name": "치킨킹",
+    "nutritionalInfo": {
+      "calories": 691,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "44%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1065,
+        "unit": "mg",
+        "dailyValue": "53%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "66%"
+      },
+      "weight": 230
+    }
+  },
+  {
+    "name": "치킨킹BLT",
+    "nutritionalInfo": {
+      "calories": 766,
+      "protein": {
+        "value": 26,
+        "unit": "g",
+        "dailyValue": "47%"
+      },
+      "sugar": 12,
+      "sodium": {
+        "value": 1105,
+        "unit": "mg",
+        "dailyValue": "55%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "78%"
+      },
+      "weight": 279
+    }
+  },
+  {
+    "name": "치킨킹BLT라지세트",
+    "nutritionalInfo": {
+      "calories": 1351,
+      "protein": {
+        "value": 31,
+        "unit": "g",
+        "dailyValue": "56%"
+      },
+      "sugar": 69,
+      "sodium": {
+        "value": 1569,
+        "unit": "mg",
+        "dailyValue": "78%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "108%"
+      },
+      "weight": 952
+    }
+  },
+  {
+    "name": "치킨킹BLT세트",
+    "nutritionalInfo": {
+      "calories": 1196,
+      "protein": {
+        "value": 30,
+        "unit": "g",
+        "dailyValue": "54%"
+      },
+      "sugar": 52,
+      "sodium": {
+        "value": 1454,
+        "unit": "mg",
+        "dailyValue": "73%"
+      },
+      "saturatedFat": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "100%"
+      },
+      "weight": 757
+    }
+  },
+  {
+    "name": "치킨킹라지세트",
+    "nutritionalInfo": {
+      "calories": 1276,
+      "protein": {
+        "value": 29,
+        "unit": "g",
+        "dailyValue": "53%"
+      },
+      "sugar": 65,
+      "sodium": {
+        "value": 1530,
+        "unit": "mg",
+        "dailyValue": "76%"
+      },
+      "saturatedFat": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "96%"
+      },
+      "weight": 903
+    }
+  },
+  {
+    "name": "치킨킹세트",
+    "nutritionalInfo": {
+      "calories": 1121,
+      "protein": {
+        "value": 28,
+        "unit": "g",
+        "dailyValue": "51%"
+      },
+      "sugar": 48,
+      "sodium": {
+        "value": 1415,
+        "unit": "mg",
+        "dailyValue": "71%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "89%"
+      },
+      "weight": 708
+    }
+  },
+  {
+    "name": "통새우슈림프버거",
+    "nutritionalInfo": {
+      "calories": 523,
+      "protein": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "30%"
+      },
+      "sugar": 9,
+      "sodium": {
+        "value": 1099,
+        "unit": "mg",
+        "dailyValue": "55%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 194
+    }
+  },
+  {
+    "name": "통새우슈림프버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1108,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 65,
+      "sodium": {
+        "value": 1564,
+        "unit": "mg",
+        "dailyValue": "78%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "weight": 867
+    }
+  },
+  {
+    "name": "통새우슈림프버거 세트",
+    "nutritionalInfo": {
+      "calories": 953,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "36%"
+      },
+      "sugar": 48,
+      "sodium": {
+        "value": 1449,
+        "unit": "mg",
+        "dailyValue": "72%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "60%"
+      },
+      "weight": 672
+    }
+  },
+  {
+    "name": "더블비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 568,
+      "protein": {
+        "value": 27,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 800,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "80%"
+      },
+      "weight": 191
+    }
+  },
+  {
+    "name": "비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "27%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 495,
+        "unit": "mg",
+        "dailyValue": "25%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 137
+    }
+  },
+  {
+    "name": "통새우와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 431,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "32%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 695,
+        "unit": "mg",
+        "dailyValue": "35%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "weight": 175
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼",
+    "nutritionalInfo": {
+      "calories": 782,
+      "protein": {
+        "value": 32,
+        "unit": "g",
+        "dailyValue": "58%"
+      },
+      "sugar": 9,
+      "sodium": {
+        "value": 1024,
+        "unit": "mg",
+        "dailyValue": "51%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "84%"
+      },
+      "weight": 298
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1366,
+      "protein": {
+        "value": 37,
+        "unit": "g",
+        "dailyValue": "66%"
+      },
+      "sugar": 65,
+      "sodium": {
+        "value": 1488,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "weight": 971
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1211,
+      "protein": {
+        "value": 35,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "sugar": 48,
+      "sodium": {
+        "value": 1374,
+        "unit": "mg",
+        "dailyValue": "69%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "107%"
+      },
+      "weight": 776
+    }
+  },
+  {
+    "name": "더블비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 568,
+      "protein": {
+        "value": 27,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 800,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "80%"
+      },
+      "weight": 191
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 862,
+      "protein": {
+        "value": 38,
+        "unit": "g",
+        "dailyValue": "70%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1690,
+        "unit": "mg",
+        "dailyValue": "85%"
+      },
+      "saturatedFat": {
+        "value": 19,
+        "unit": "g",
+        "dailyValue": "128%"
+      },
+      "weight": 327
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1447,
+      "protein": {
+        "value": 43,
+        "unit": "g",
+        "dailyValue": "79%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 2155,
+        "unit": "mg",
+        "dailyValue": "108%"
+      },
+      "saturatedFat": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "158%"
+      },
+      "weight": 1000
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1291,
+      "protein": {
+        "value": 42,
+        "unit": "g",
+        "dailyValue": "76%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 2040,
+        "unit": "mg",
+        "dailyValue": "102%"
+      },
+      "saturatedFat": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "151%"
+      },
+      "weight": 805
+    }
+  },
+  {
+    "name": "불고기와퍼",
+    "nutritionalInfo": {
+      "calories": 755,
+      "protein": {
+        "value": 32,
+        "unit": "g",
+        "dailyValue": "58%"
+      },
+      "sugar": 11,
+      "sodium": {
+        "value": 1165,
+        "unit": "mg",
+        "dailyValue": "58%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "88%"
+      },
+      "weight": 300
+    }
+  },
+  {
+    "name": "불고기와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1340,
+      "protein": {
+        "value": 37,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "sugar": 67,
+      "sodium": {
+        "value": 1629,
+        "unit": "mg",
+        "dailyValue": "81%"
+      },
+      "saturatedFat": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "118%"
+      },
+      "weight": 973
+    }
+  },
+  {
+    "name": "불고기와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1185,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 50,
+      "sodium": {
+        "value": 1514,
+        "unit": "mg",
+        "dailyValue": "76%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "111%"
+      },
+      "weight": 778
+    }
+  },
+  {
+    "name": "불고기와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 424,
+      "protein": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "29%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 632,
+        "unit": "mg",
+        "dailyValue": "32%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "weight": 164
+    }
+  },
+  {
+    "name": "불고기와퍼주니어라지세트",
+    "nutritionalInfo": {
+      "calories": 1008,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "38%"
+      },
+      "sugar": 61,
+      "sodium": {
+        "value": 1096,
+        "unit": "mg",
+        "dailyValue": "55%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "69%"
+      },
+      "weight": 837
+    }
+  },
+  {
+    "name": "불고기와퍼주니어세트",
+    "nutritionalInfo": {
+      "calories": 853,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "36%"
+      },
+      "sugar": 44,
+      "sodium": {
+        "value": 982,
+        "unit": "mg",
+        "dailyValue": "49%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "62%"
+      },
+      "weight": 642
+    }
+  },
+  {
+    "name": "비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "27%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 495,
+        "unit": "mg",
+        "dailyValue": "25%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 137
+    }
+  },
+  {
+    "name": "와퍼",
+    "nutritionalInfo": {
+      "calories": 723,
+      "protein": {
+        "value": 31,
+        "unit": "g",
+        "dailyValue": "56%"
+      },
+      "sugar": 10,
+      "sodium": {
+        "value": 1125,
+        "unit": "mg",
+        "dailyValue": "56%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "85%"
+      },
+      "weight": 293
+    }
+  },
+  {
+    "name": "와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1308,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 66,
+      "sodium": {
+        "value": 1589,
+        "unit": "mg",
+        "dailyValue": "79%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "weight": 966
+    }
+  },
+  {
+    "name": "와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1152,
+      "protein": {
+        "value": 34,
+        "unit": "g",
+        "dailyValue": "63%"
+      },
+      "sugar": 50,
+      "sodium": {
+        "value": 1475,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "108%"
+      },
+      "weight": 771
+    }
+  },
+  {
+    "name": "와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 570,
+        "unit": "mg",
+        "dailyValue": "29%"
+      },
+      "saturatedFat": {
+        "value": 5,
+        "unit": "g",
+        "dailyValue": "34%"
+      },
+      "weight": 160
+    }
+  },
+  {
+    "name": "와퍼주니어 라지세트 ",
+    "nutritionalInfo": {
+      "calories": 971,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 60,
+      "sodium": {
+        "value": 1035,
+        "unit": "mg",
+        "dailyValue": "52%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "weight": 833
+    }
+  },
+  {
+    "name": "와퍼주니어 세트",
+    "nutritionalInfo": {
+      "calories": 816,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "sugar": 43,
+      "sodium": {
+        "value": 920,
+        "unit": "mg",
+        "dailyValue": "46%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "57%"
+      },
+      "weight": 638
+    }
+  },
+  {
+    "name": "치즈버거",
+    "nutritionalInfo": {
+      "calories": 392,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "30%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 789,
+        "unit": "mg",
+        "dailyValue": "39%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "47%"
+      },
+      "weight": 134
+    }
+  },
+  {
+    "name": "치즈버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 977,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 62,
+      "sodium": {
+        "value": 1254,
+        "unit": "mg",
+        "dailyValue": "63%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "77%"
+      },
+      "weight": 807
+    }
+  },
+  {
+    "name": "치즈버거 세트",
+    "nutritionalInfo": {
+      "calories": 821,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "sugar": 45,
+      "sodium": {
+        "value": 1139,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "69%"
+      },
+      "weight": 612
+    }
+  },
+  {
+    "name": "치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 817,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1607,
+        "unit": "mg",
+        "dailyValue": "80%"
+      },
+      "saturatedFat": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "119%"
+      },
+      "weight": 317
+    }
+  },
+  {
+    "name": "치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1402,
+      "protein": {
+        "value": 41,
+        "unit": "g",
+        "dailyValue": "74%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 2071,
+        "unit": "mg",
+        "dailyValue": "104%"
+      },
+      "saturatedFat": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "150%"
+      },
+      "weight": 990
+    }
+  },
+  {
+    "name": "치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1247,
+      "protein": {
+        "value": 40,
+        "unit": "g",
+        "dailyValue": "72%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 1957,
+        "unit": "mg",
+        "dailyValue": "98%"
+      },
+      "saturatedFat": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "142%"
+      },
+      "weight": 795
+    }
+  },
+  {
+    "name": "치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 433,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 796,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 8,
+        "unit": "g",
+        "dailyValue": "50%"
+      },
+      "weight": 172
+    }
+  },
+  {
+    "name": "치즈와퍼주니어 라지세트 ",
+    "nutritionalInfo": {
+      "calories": 1030,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "43%"
+      },
+      "sugar": 61,
+      "sodium": {
+        "value": 1225,
+        "unit": "mg",
+        "dailyValue": "62%"
+      },
+      "saturatedFat": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "92%"
+      },
+      "weight": 843
+    }
+  },
+  {
+    "name": "치즈와퍼주니어 세트",
+    "nutritionalInfo": {
+      "calories": 862,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 44,
+      "sodium": {
+        "value": 1146,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 11,
+        "unit": "g",
+        "dailyValue": "73%"
+      },
+      "weight": 650
+    }
+  },
+  {
+    "name": "콰트로치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 478,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 847,
+        "unit": "mg",
+        "dailyValue": "42%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "weight": 182
+    }
+  },
+  {
+    "name": "콰트로치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 478,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 847,
+        "unit": "mg",
+        "dailyValue": "42%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "weight": 182
+    }
+  },
+  {
+    "name": "통새우와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 431,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "32%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 695,
+        "unit": "mg",
+        "dailyValue": "35%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "weight": 175
+    }
+  },
+  {
+    "name": "더블비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 568,
+      "protein": {
+        "value": 27,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 800,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "80%"
+      },
+      "weight": 191
+    }
+  },
+  {
+    "name": "비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "27%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 495,
+        "unit": "mg",
+        "dailyValue": "25%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 137
+    }
+  },
+  {
+    "name": "통새우와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 431,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "32%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 695,
+        "unit": "mg",
+        "dailyValue": "35%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "weight": 175
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼",
+    "nutritionalInfo": {
+      "calories": 782,
+      "protein": {
+        "value": 32,
+        "unit": "g",
+        "dailyValue": "58%"
+      },
+      "sugar": 9,
+      "sodium": {
+        "value": 1024,
+        "unit": "mg",
+        "dailyValue": "51%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "84%"
+      },
+      "weight": 298
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1366,
+      "protein": {
+        "value": 37,
+        "unit": "g",
+        "dailyValue": "66%"
+      },
+      "sugar": 65,
+      "sodium": {
+        "value": 1488,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "weight": 971
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1211,
+      "protein": {
+        "value": 35,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "sugar": 48,
+      "sodium": {
+        "value": 1374,
+        "unit": "mg",
+        "dailyValue": "69%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "107%"
+      },
+      "weight": 776
+    }
+  },
+  {
+    "name": "더블비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 568,
+      "protein": {
+        "value": 27,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 800,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "80%"
+      },
+      "weight": 191
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 862,
+      "protein": {
+        "value": 38,
+        "unit": "g",
+        "dailyValue": "70%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1690,
+        "unit": "mg",
+        "dailyValue": "85%"
+      },
+      "saturatedFat": {
+        "value": 19,
+        "unit": "g",
+        "dailyValue": "128%"
+      },
+      "weight": 327
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1447,
+      "protein": {
+        "value": 43,
+        "unit": "g",
+        "dailyValue": "79%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 2155,
+        "unit": "mg",
+        "dailyValue": "108%"
+      },
+      "saturatedFat": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "158%"
+      },
+      "weight": 1000
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1291,
+      "protein": {
+        "value": 42,
+        "unit": "g",
+        "dailyValue": "76%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 2040,
+        "unit": "mg",
+        "dailyValue": "102%"
+      },
+      "saturatedFat": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "151%"
+      },
+      "weight": 805
+    }
+  },
+  {
+    "name": "불고기와퍼",
+    "nutritionalInfo": {
+      "calories": 755,
+      "protein": {
+        "value": 32,
+        "unit": "g",
+        "dailyValue": "58%"
+      },
+      "sugar": 11,
+      "sodium": {
+        "value": 1165,
+        "unit": "mg",
+        "dailyValue": "58%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "88%"
+      },
+      "weight": 300
+    }
+  },
+  {
+    "name": "불고기와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1340,
+      "protein": {
+        "value": 37,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "sugar": 67,
+      "sodium": {
+        "value": 1629,
+        "unit": "mg",
+        "dailyValue": "81%"
+      },
+      "saturatedFat": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "118%"
+      },
+      "weight": 973
+    }
+  },
+  {
+    "name": "불고기와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1185,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 50,
+      "sodium": {
+        "value": 1514,
+        "unit": "mg",
+        "dailyValue": "76%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "111%"
+      },
+      "weight": 778
+    }
+  },
+  {
+    "name": "불고기와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 424,
+      "protein": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "29%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 632,
+        "unit": "mg",
+        "dailyValue": "32%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "weight": 164
+    }
+  },
+  {
+    "name": "불고기와퍼주니어라지세트",
+    "nutritionalInfo": {
+      "calories": 1008,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "38%"
+      },
+      "sugar": 61,
+      "sodium": {
+        "value": 1096,
+        "unit": "mg",
+        "dailyValue": "55%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "69%"
+      },
+      "weight": 837
+    }
+  },
+  {
+    "name": "불고기와퍼주니어세트",
+    "nutritionalInfo": {
+      "calories": 853,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "36%"
+      },
+      "sugar": 44,
+      "sodium": {
+        "value": 982,
+        "unit": "mg",
+        "dailyValue": "49%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "62%"
+      },
+      "weight": 642
+    }
+  },
+  {
+    "name": "비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "27%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 495,
+        "unit": "mg",
+        "dailyValue": "25%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 137
+    }
+  },
+  {
+    "name": "와퍼",
+    "nutritionalInfo": {
+      "calories": 723,
+      "protein": {
+        "value": 31,
+        "unit": "g",
+        "dailyValue": "56%"
+      },
+      "sugar": 10,
+      "sodium": {
+        "value": 1125,
+        "unit": "mg",
+        "dailyValue": "56%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "85%"
+      },
+      "weight": 293
+    }
+  },
+  {
+    "name": "와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1308,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 66,
+      "sodium": {
+        "value": 1589,
+        "unit": "mg",
+        "dailyValue": "79%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "weight": 966
+    }
+  },
+  {
+    "name": "와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1152,
+      "protein": {
+        "value": 34,
+        "unit": "g",
+        "dailyValue": "63%"
+      },
+      "sugar": 50,
+      "sodium": {
+        "value": 1475,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "108%"
+      },
+      "weight": 771
+    }
+  },
+  {
+    "name": "와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 570,
+        "unit": "mg",
+        "dailyValue": "29%"
+      },
+      "saturatedFat": {
+        "value": 5,
+        "unit": "g",
+        "dailyValue": "34%"
+      },
+      "weight": 160
+    }
+  },
+  {
+    "name": "와퍼주니어 라지세트 ",
+    "nutritionalInfo": {
+      "calories": 971,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 60,
+      "sodium": {
+        "value": 1035,
+        "unit": "mg",
+        "dailyValue": "52%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "weight": 833
+    }
+  },
+  {
+    "name": "와퍼주니어 세트",
+    "nutritionalInfo": {
+      "calories": 816,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "sugar": 43,
+      "sodium": {
+        "value": 920,
+        "unit": "mg",
+        "dailyValue": "46%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "57%"
+      },
+      "weight": 638
+    }
+  },
+  {
+    "name": "치즈버거",
+    "nutritionalInfo": {
+      "calories": 392,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "30%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 789,
+        "unit": "mg",
+        "dailyValue": "39%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "47%"
+      },
+      "weight": 134
+    }
+  },
+  {
+    "name": "치즈버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 977,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 62,
+      "sodium": {
+        "value": 1254,
+        "unit": "mg",
+        "dailyValue": "63%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "77%"
+      },
+      "weight": 807
+    }
+  },
+  {
+    "name": "치즈버거 세트",
+    "nutritionalInfo": {
+      "calories": 821,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "sugar": 45,
+      "sodium": {
+        "value": 1139,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "69%"
+      },
+      "weight": 612
+    }
+  },
+  {
+    "name": "치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 817,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1607,
+        "unit": "mg",
+        "dailyValue": "80%"
+      },
+      "saturatedFat": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "119%"
+      },
+      "weight": 317
+    }
+  },
+  {
+    "name": "치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1402,
+      "protein": {
+        "value": 41,
+        "unit": "g",
+        "dailyValue": "74%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 2071,
+        "unit": "mg",
+        "dailyValue": "104%"
+      },
+      "saturatedFat": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "150%"
+      },
+      "weight": 990
+    }
+  },
+  {
+    "name": "치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1247,
+      "protein": {
+        "value": 40,
+        "unit": "g",
+        "dailyValue": "72%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 1957,
+        "unit": "mg",
+        "dailyValue": "98%"
+      },
+      "saturatedFat": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "142%"
+      },
+      "weight": 795
+    }
+  },
+  {
+    "name": "치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 433,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 796,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 8,
+        "unit": "g",
+        "dailyValue": "50%"
+      },
+      "weight": 172
+    }
+  },
+  {
+    "name": "치즈와퍼주니어 라지세트 ",
+    "nutritionalInfo": {
+      "calories": 1030,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "43%"
+      },
+      "sugar": 61,
+      "sodium": {
+        "value": 1225,
+        "unit": "mg",
+        "dailyValue": "62%"
+      },
+      "saturatedFat": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "92%"
+      },
+      "weight": 843
+    }
+  },
+  {
+    "name": "치즈와퍼주니어 세트",
+    "nutritionalInfo": {
+      "calories": 862,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 44,
+      "sodium": {
+        "value": 1146,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 11,
+        "unit": "g",
+        "dailyValue": "73%"
+      },
+      "weight": 650
+    }
+  },
+  {
+    "name": "콰트로치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 478,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 847,
+        "unit": "mg",
+        "dailyValue": "42%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "weight": 182
+    }
+  },
+  {
+    "name": "콰트로치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 478,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 847,
+        "unit": "mg",
+        "dailyValue": "42%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "weight": 182
+    }
+  },
+  {
+    "name": "통새우와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 431,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "32%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 695,
+        "unit": "mg",
+        "dailyValue": "35%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "weight": 175
+    }
+  },
+  {
+    "name": "바비큐치킨버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1061,
+      "protein": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "43%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 1264,
+        "unit": "mg",
+        "dailyValue": "63%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "68%"
+      },
+      "weight": 841
+    }
+  },
+  {
+    "name": "바비큐치킨버거 세트",
+    "nutritionalInfo": {
+      "calories": 906,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 1150,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "61%"
+      },
+      "weight": 646
+    }
+  },
+  {
+    "name": "바비큐치킨버거",
+    "nutritionalInfo": {
+      "calories": 485,
+      "protein": {
+        "value": 19,
+        "unit": "g",
+        "dailyValue": "34%"
+      },
+      "sugar": 7,
+      "sodium": {
+        "value": 802,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 5,
+        "unit": "g",
+        "dailyValue": "35%"
+      },
+      "weight": 173
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1447,
+      "protein": {
+        "value": 43,
+        "unit": "g",
+        "dailyValue": "79%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 2155,
+        "unit": "mg",
+        "dailyValue": "108%"
+      },
+      "saturatedFat": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "158%"
+      },
+      "weight": 1000
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1291,
+      "protein": {
+        "value": 42,
+        "unit": "g",
+        "dailyValue": "76%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 2040,
+        "unit": "mg",
+        "dailyValue": "102%"
+      },
+      "saturatedFat": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "151%"
+      },
+      "weight": 805
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 862,
+      "protein": {
+        "value": 38,
+        "unit": "g",
+        "dailyValue": "70%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1690,
+        "unit": "mg",
+        "dailyValue": "85%"
+      },
+      "saturatedFat": {
+        "value": 19,
+        "unit": "g",
+        "dailyValue": "128%"
+      },
+      "weight": 327
+    }
+  },
+  {
+    "name": "비프&슈림프버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1230,
+      "protein": {
+        "value": 29,
+        "unit": "g",
+        "dailyValue": "53%"
+      },
+      "sugar": 63,
+      "sodium": {
+        "value": 1596,
+        "unit": "mg",
+        "dailyValue": "80%"
+      },
+      "saturatedFat": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "93%"
+      },
+      "weight": 922
+    }
+  },
+  {
+    "name": "비프&슈림프버거 세트",
+    "nutritionalInfo": {
+      "calories": 1075,
+      "protein": {
+        "value": 28,
+        "unit": "g",
+        "dailyValue": "50%"
+      },
+      "sugar": 46,
+      "sodium": {
+        "value": 1481,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "86%"
+      },
+      "weight": 727
+    }
+  },
+  {
+    "name": "비프&슈림프버거",
+    "nutritionalInfo": {
+      "calories": 645,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "44%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 1131,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "63%"
+      },
+      "weight": 249
+    }
+  },
+  {
+    "name": "딥 트러플 머쉬룸 더블 라지세트",
+    "nutritionalInfo": {
+      "calories": 1581,
+      "protein": {
+        "value": 56,
+        "unit": "g",
+        "dailyValue": "103%"
+      },
+      "sugar": 62,
+      "sodium": {
+        "value": 1722,
+        "unit": "mg",
+        "dailyValue": "86%"
+      },
+      "saturatedFat": {
+        "value": 29,
+        "unit": "g",
+        "dailyValue": "193%"
+      },
+      "weight": 1030
+    }
+  },
+  {
+    "name": "딥 트러플 머쉬룸 더블 세트",
+    "nutritionalInfo": {
+      "calories": 1426,
+      "protein": {
+        "value": 55,
+        "unit": "g",
+        "dailyValue": "101%"
+      },
+      "sugar": 45,
+      "sodium": {
+        "value": 1607,
+        "unit": "mg",
+        "dailyValue": "80%"
+      },
+      "saturatedFat": {
+        "value": 28,
+        "unit": "g",
+        "dailyValue": "186%"
+      },
+      "weight": 835
+    }
+  },
+  {
+    "name": "딥 트러플 머쉬룸 더블",
+    "nutritionalInfo": {
+      "calories": 996,
+      "protein": {
+        "value": 52,
+        "unit": "g",
+        "dailyValue": "94%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 1258,
+        "unit": "mg",
+        "dailyValue": "63%"
+      },
+      "saturatedFat": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "163%"
+      },
+      "weight": 357
+    }
+  },
+  {
+    "name": "치킨버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1128,
+      "protein": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "42%"
+      },
+      "sugar": 60,
+      "sodium": {
+        "value": 1323,
+        "unit": "mg",
+        "dailyValue": "66%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "78%"
+      },
+      "weight": 856
+    }
+  },
+  {
+    "name": "치킨버거 세트",
+    "nutritionalInfo": {
+      "calories": 973,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 43,
+      "sodium": {
+        "value": 1208,
+        "unit": "mg",
+        "dailyValue": "60%"
+      },
+      "saturatedFat": {
+        "value": 11,
+        "unit": "g",
+        "dailyValue": "70%"
+      },
+      "weight": 661
+    }
+  },
+  {
+    "name": "치킨버거",
+    "nutritionalInfo": {
+      "calories": 544,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 858,
+        "unit": "mg",
+        "dailyValue": "43%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "weight": 183
+    }
+  },
+  {
+    "name": "콰트로치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1486,
+      "protein": {
+        "value": 48,
+        "unit": "g",
+        "dailyValue": "87%"
+      },
+      "sugar": 62,
+      "sodium": {
+        "value": 2136,
+        "unit": "mg",
+        "dailyValue": "107%"
+      },
+      "saturatedFat": {
+        "value": 26,
+        "unit": "g",
+        "dailyValue": "173%"
+      },
+      "weight": 1009
+    }
+  },
+  {
+    "name": "콰트로치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1330,
+      "protein": {
+        "value": 47,
+        "unit": "g",
+        "dailyValue": "85%"
+      },
+      "sugar": 45,
+      "sodium": {
+        "value": 2021,
+        "unit": "mg",
+        "dailyValue": "101%"
+      },
+      "saturatedFat": {
+        "value": 25,
+        "unit": "g",
+        "dailyValue": "166%"
+      },
+      "weight": 814
+    }
+  },
+  {
+    "name": "콰트로치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 901,
+      "protein": {
+        "value": 43,
+        "unit": "g",
+        "dailyValue": "78%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 1672,
+        "unit": "mg",
+        "dailyValue": "84%"
+      },
+      "saturatedFat": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "143%"
+      },
+      "weight": 336
+    }
+  },
+  {
+    "name": "치즈와퍼주니어 라지세트 ",
+    "nutritionalInfo": {
+      "calories": 1030,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "43%"
+      },
+      "sugar": 61,
+      "sodium": {
+        "value": 1225,
+        "unit": "mg",
+        "dailyValue": "62%"
+      },
+      "saturatedFat": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "92%"
+      },
+      "weight": 843
+    }
+  },
+  {
+    "name": "치즈와퍼주니어 세트",
+    "nutritionalInfo": {
+      "calories": 862,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 44,
+      "sodium": {
+        "value": 1146,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 11,
+        "unit": "g",
+        "dailyValue": "73%"
+      },
+      "weight": 650
+    }
+  },
+  {
+    "name": "치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 433,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 796,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 8,
+        "unit": "g",
+        "dailyValue": "50%"
+      },
+      "weight": 172
+    }
+  },
+  {
+    "name": "와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1308,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 66,
+      "sodium": {
+        "value": 1589,
+        "unit": "mg",
+        "dailyValue": "79%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "weight": 966
+    }
+  },
+  {
+    "name": "와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1152,
+      "protein": {
+        "value": 34,
+        "unit": "g",
+        "dailyValue": "63%"
+      },
+      "sugar": 50,
+      "sodium": {
+        "value": 1475,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "108%"
+      },
+      "weight": 771
+    }
+  },
+  {
+    "name": "와퍼",
+    "nutritionalInfo": {
+      "calories": 723,
+      "protein": {
+        "value": 31,
+        "unit": "g",
+        "dailyValue": "56%"
+      },
+      "sugar": 10,
+      "sodium": {
+        "value": 1125,
+        "unit": "mg",
+        "dailyValue": "56%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "85%"
+      },
+      "weight": 293
+    }
+  },
+  {
+    "name": "트러플 머쉬룸 와퍼 주니어 라지세트",
+    "nutritionalInfo": {
+      "calories": 1007,
+      "protein": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "42%"
+      },
+      "sugar": 59,
+      "sodium": {
+        "value": 1119,
+        "unit": "mg",
+        "dailyValue": "56%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "86%"
+      },
+      "weight": 852
+    }
+  },
+  {
+    "name": "트러플 머쉬룸 와퍼 주니어 세트",
+    "nutritionalInfo": {
+      "calories": 852,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 42,
+      "sodium": {
+        "value": 1005,
+        "unit": "mg",
+        "dailyValue": "50%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "78%"
+      },
+      "weight": 657
+    }
+  },
+  {
+    "name": "트러플 머쉬룸 와퍼 주니어",
+    "nutritionalInfo": {
+      "calories": 422,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sugar": 2,
+      "sodium": {
+        "value": 655,
+        "unit": "mg",
+        "dailyValue": "33%"
+      },
+      "saturatedFat": {
+        "value": 8,
+        "unit": "g",
+        "dailyValue": "56%"
+      },
+      "weight": 179
+    }
+  },
+  {
+    "name": "불맛 더블치즈버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1536,
+      "protein": {
+        "value": 65,
+        "unit": "g",
+        "dailyValue": "118%"
+      },
+      "sugar": 67,
+      "sodium": {
+        "value": 2630,
+        "unit": "mg",
+        "dailyValue": "132%"
+      },
+      "saturatedFat": {
+        "value": 34,
+        "unit": "g",
+        "dailyValue": "227%"
+      },
+      "weight": 1016
+    }
+  },
+  {
+    "name": "불맛 더블치즈버거 세트",
+    "nutritionalInfo": {
+      "calories": 1380,
+      "protein": {
+        "value": 64,
+        "unit": "g",
+        "dailyValue": "116%"
+      },
+      "sugar": 50,
+      "sodium": {
+        "value": 2515,
+        "unit": "mg",
+        "dailyValue": "126%"
+      },
+      "saturatedFat": {
+        "value": 33,
+        "unit": "g",
+        "dailyValue": "220%"
+      },
+      "weight": 821
+    }
+  },
+  {
+    "name": "불맛 더블치즈버거",
+    "nutritionalInfo": {
+      "calories": 951,
+      "protein": {
+        "value": 60,
+        "unit": "g",
+        "dailyValue": "109%"
+      },
+      "sugar": 10,
+      "sodium": {
+        "value": 2166,
+        "unit": "mg",
+        "dailyValue": "108%"
+      },
+      "saturatedFat": {
+        "value": 30,
+        "unit": "g",
+        "dailyValue": "197%"
+      },
+      "weight": 343
+    }
+  },
+  {
+    "name": "치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1402,
+      "protein": {
+        "value": 41,
+        "unit": "g",
+        "dailyValue": "74%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 2071,
+        "unit": "mg",
+        "dailyValue": "104%"
+      },
+      "saturatedFat": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "150%"
+      },
+      "weight": 990
+    }
+  },
+  {
+    "name": "치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1247,
+      "protein": {
+        "value": 40,
+        "unit": "g",
+        "dailyValue": "72%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 1957,
+        "unit": "mg",
+        "dailyValue": "98%"
+      },
+      "saturatedFat": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "142%"
+      },
+      "weight": 795
+    }
+  },
+  {
+    "name": "치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 817,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1607,
+        "unit": "mg",
+        "dailyValue": "80%"
+      },
+      "saturatedFat": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "119%"
+      },
+      "weight": 317
+    }
+  },
+  {
+    "name": "두툼버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 1571,
+      "protein": {
+        "value": 57,
+        "unit": "g",
+        "dailyValue": "103%"
+      },
+      "sugar": 70,
+      "sodium": {
+        "value": 2387,
+        "unit": "mg",
+        "dailyValue": "119%"
+      },
+      "saturatedFat": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "148%"
+      },
+      "weight": 1035
+    }
+  },
+  {
+    "name": "두툼버거 세트",
+    "nutritionalInfo": {
+      "calories": 1416,
+      "protein": {
+        "value": 56,
+        "unit": "g",
+        "dailyValue": "101%"
+      },
+      "sugar": 53,
+      "sodium": {
+        "value": 2273,
+        "unit": "mg",
+        "dailyValue": "114%"
+      },
+      "saturatedFat": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "140%"
+      },
+      "weight": 840
+    }
+  },
+  {
+    "name": "두툼버거",
+    "nutritionalInfo": {
+      "calories": 986,
+      "protein": {
+        "value": 52,
+        "unit": "g",
+        "dailyValue": "94%"
+      },
+      "sugar": 14,
+      "sodium": {
+        "value": 1923,
+        "unit": "mg",
+        "dailyValue": "96%"
+      },
+      "saturatedFat": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "117%"
+      },
+      "weight": 362
+    }
+  },
+  {
+    "name": "와퍼주니어 라지세트 ",
+    "nutritionalInfo": {
+      "calories": 971,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 60,
+      "sodium": {
+        "value": 1035,
+        "unit": "mg",
+        "dailyValue": "52%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "weight": 833
+    }
+  },
+  {
+    "name": "와퍼주니어 세트",
+    "nutritionalInfo": {
+      "calories": 816,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "sugar": 43,
+      "sodium": {
+        "value": 920,
+        "unit": "mg",
+        "dailyValue": "46%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "57%"
+      },
+      "weight": 638
+    }
+  },
+  {
+    "name": "와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 570,
+        "unit": "mg",
+        "dailyValue": "29%"
+      },
+      "saturatedFat": {
+        "value": 5,
+        "unit": "g",
+        "dailyValue": "34%"
+      },
+      "weight": 160
+    }
+  },
+  {
+    "name": "더블비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 568,
+      "protein": {
+        "value": 27,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 800,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "80%"
+      },
+      "weight": 191
+    }
+  },
+  {
+    "name": "비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "27%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 495,
+        "unit": "mg",
+        "dailyValue": "25%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 137
+    }
+  },
+  {
+    "name": "통새우와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 431,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "32%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 695,
+        "unit": "mg",
+        "dailyValue": "35%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "weight": 175
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼",
+    "nutritionalInfo": {
+      "calories": 782,
+      "protein": {
+        "value": 32,
+        "unit": "g",
+        "dailyValue": "58%"
+      },
+      "sugar": 9,
+      "sodium": {
+        "value": 1024,
+        "unit": "mg",
+        "dailyValue": "51%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "84%"
+      },
+      "weight": 298
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1366,
+      "protein": {
+        "value": 37,
+        "unit": "g",
+        "dailyValue": "66%"
+      },
+      "sugar": 65,
+      "sodium": {
+        "value": 1488,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "weight": 971
+    }
+  },
+  {
+    "name": "갈릭불고기와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1211,
+      "protein": {
+        "value": 35,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "sugar": 48,
+      "sodium": {
+        "value": 1374,
+        "unit": "mg",
+        "dailyValue": "69%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "107%"
+      },
+      "weight": 776
+    }
+  },
+  {
+    "name": "더블비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 568,
+      "protein": {
+        "value": 27,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 800,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "80%"
+      },
+      "weight": 191
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 862,
+      "protein": {
+        "value": 38,
+        "unit": "g",
+        "dailyValue": "70%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1690,
+        "unit": "mg",
+        "dailyValue": "85%"
+      },
+      "saturatedFat": {
+        "value": 19,
+        "unit": "g",
+        "dailyValue": "128%"
+      },
+      "weight": 327
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1447,
+      "protein": {
+        "value": 43,
+        "unit": "g",
+        "dailyValue": "79%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 2155,
+        "unit": "mg",
+        "dailyValue": "108%"
+      },
+      "saturatedFat": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "158%"
+      },
+      "weight": 1000
+    }
+  },
+  {
+    "name": "베이컨치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1291,
+      "protein": {
+        "value": 42,
+        "unit": "g",
+        "dailyValue": "76%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 2040,
+        "unit": "mg",
+        "dailyValue": "102%"
+      },
+      "saturatedFat": {
+        "value": 23,
+        "unit": "g",
+        "dailyValue": "151%"
+      },
+      "weight": 805
+    }
+  },
+  {
+    "name": "불고기와퍼",
+    "nutritionalInfo": {
+      "calories": 755,
+      "protein": {
+        "value": 32,
+        "unit": "g",
+        "dailyValue": "58%"
+      },
+      "sugar": 11,
+      "sodium": {
+        "value": 1165,
+        "unit": "mg",
+        "dailyValue": "58%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "88%"
+      },
+      "weight": 300
+    }
+  },
+  {
+    "name": "불고기와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1340,
+      "protein": {
+        "value": 37,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "sugar": 67,
+      "sodium": {
+        "value": 1629,
+        "unit": "mg",
+        "dailyValue": "81%"
+      },
+      "saturatedFat": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "118%"
+      },
+      "weight": 973
+    }
+  },
+  {
+    "name": "불고기와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1185,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 50,
+      "sodium": {
+        "value": 1514,
+        "unit": "mg",
+        "dailyValue": "76%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "111%"
+      },
+      "weight": 778
+    }
+  },
+  {
+    "name": "불고기와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 424,
+      "protein": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "29%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 632,
+        "unit": "mg",
+        "dailyValue": "32%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "weight": 164
+    }
+  },
+  {
+    "name": "불고기와퍼주니어라지세트",
+    "nutritionalInfo": {
+      "calories": 1008,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "38%"
+      },
+      "sugar": 61,
+      "sodium": {
+        "value": 1096,
+        "unit": "mg",
+        "dailyValue": "55%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "69%"
+      },
+      "weight": 837
+    }
+  },
+  {
+    "name": "불고기와퍼주니어세트",
+    "nutritionalInfo": {
+      "calories": 853,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "36%"
+      },
+      "sugar": 44,
+      "sodium": {
+        "value": 982,
+        "unit": "mg",
+        "dailyValue": "49%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "62%"
+      },
+      "weight": 642
+    }
+  },
+  {
+    "name": "비프불고기버거",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 15,
+        "unit": "g",
+        "dailyValue": "27%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 495,
+        "unit": "mg",
+        "dailyValue": "25%"
+      },
+      "saturatedFat": {
+        "value": 6,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "weight": 137
+    }
+  },
+  {
+    "name": "와퍼",
+    "nutritionalInfo": {
+      "calories": 723,
+      "protein": {
+        "value": 31,
+        "unit": "g",
+        "dailyValue": "56%"
+      },
+      "sugar": 10,
+      "sodium": {
+        "value": 1125,
+        "unit": "mg",
+        "dailyValue": "56%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "85%"
+      },
+      "weight": 293
+    }
+  },
+  {
+    "name": "와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1308,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 66,
+      "sodium": {
+        "value": 1589,
+        "unit": "mg",
+        "dailyValue": "79%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "weight": 966
+    }
+  },
+  {
+    "name": "와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1152,
+      "protein": {
+        "value": 34,
+        "unit": "g",
+        "dailyValue": "63%"
+      },
+      "sugar": 50,
+      "sodium": {
+        "value": 1475,
+        "unit": "mg",
+        "dailyValue": "74%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "108%"
+      },
+      "weight": 771
+    }
+  },
+  {
+    "name": "와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 386,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "31%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 570,
+        "unit": "mg",
+        "dailyValue": "29%"
+      },
+      "saturatedFat": {
+        "value": 5,
+        "unit": "g",
+        "dailyValue": "34%"
+      },
+      "weight": 160
+    }
+  },
+  {
+    "name": "와퍼주니어 라지세트 ",
+    "nutritionalInfo": {
+      "calories": 971,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 60,
+      "sodium": {
+        "value": 1035,
+        "unit": "mg",
+        "dailyValue": "52%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "weight": 833
+    }
+  },
+  {
+    "name": "와퍼주니어 세트",
+    "nutritionalInfo": {
+      "calories": 816,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "sugar": 43,
+      "sodium": {
+        "value": 920,
+        "unit": "mg",
+        "dailyValue": "46%"
+      },
+      "saturatedFat": {
+        "value": 9,
+        "unit": "g",
+        "dailyValue": "57%"
+      },
+      "weight": 638
+    }
+  },
+  {
+    "name": "치즈버거",
+    "nutritionalInfo": {
+      "calories": 392,
+      "protein": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "30%"
+      },
+      "sugar": 6,
+      "sodium": {
+        "value": 789,
+        "unit": "mg",
+        "dailyValue": "39%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "47%"
+      },
+      "weight": 134
+    }
+  },
+  {
+    "name": "치즈버거 라지세트",
+    "nutritionalInfo": {
+      "calories": 977,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 62,
+      "sodium": {
+        "value": 1254,
+        "unit": "mg",
+        "dailyValue": "63%"
+      },
+      "saturatedFat": {
+        "value": 12,
+        "unit": "g",
+        "dailyValue": "77%"
+      },
+      "weight": 807
+    }
+  },
+  {
+    "name": "치즈버거 세트",
+    "nutritionalInfo": {
+      "calories": 821,
+      "protein": {
+        "value": 20,
+        "unit": "g",
+        "dailyValue": "37%"
+      },
+      "sugar": 45,
+      "sodium": {
+        "value": 1139,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "69%"
+      },
+      "weight": 612
+    }
+  },
+  {
+    "name": "치즈와퍼",
+    "nutritionalInfo": {
+      "calories": 817,
+      "protein": {
+        "value": 36,
+        "unit": "g",
+        "dailyValue": "65%"
+      },
+      "sugar": 8,
+      "sodium": {
+        "value": 1607,
+        "unit": "mg",
+        "dailyValue": "80%"
+      },
+      "saturatedFat": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "119%"
+      },
+      "weight": 317
+    }
+  },
+  {
+    "name": "치즈와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1402,
+      "protein": {
+        "value": 41,
+        "unit": "g",
+        "dailyValue": "74%"
+      },
+      "sugar": 64,
+      "sodium": {
+        "value": 2071,
+        "unit": "mg",
+        "dailyValue": "104%"
+      },
+      "saturatedFat": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "150%"
+      },
+      "weight": 990
+    }
+  },
+  {
+    "name": "치즈와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1247,
+      "protein": {
+        "value": 40,
+        "unit": "g",
+        "dailyValue": "72%"
+      },
+      "sugar": 47,
+      "sodium": {
+        "value": 1957,
+        "unit": "mg",
+        "dailyValue": "98%"
+      },
+      "saturatedFat": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "142%"
+      },
+      "weight": 795
+    }
+  },
+  {
+    "name": "치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 433,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "33%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 796,
+        "unit": "mg",
+        "dailyValue": "40%"
+      },
+      "saturatedFat": {
+        "value": 8,
+        "unit": "g",
+        "dailyValue": "50%"
+      },
+      "weight": 172
+    }
+  },
+  {
+    "name": "치즈와퍼주니어 라지세트 ",
+    "nutritionalInfo": {
+      "calories": 1030,
+      "protein": {
+        "value": 24,
+        "unit": "g",
+        "dailyValue": "43%"
+      },
+      "sugar": 61,
+      "sodium": {
+        "value": 1225,
+        "unit": "mg",
+        "dailyValue": "62%"
+      },
+      "saturatedFat": {
+        "value": 14,
+        "unit": "g",
+        "dailyValue": "92%"
+      },
+      "weight": 843
+    }
+  },
+  {
+    "name": "치즈와퍼주니어 세트",
+    "nutritionalInfo": {
+      "calories": 862,
+      "protein": {
+        "value": 22,
+        "unit": "g",
+        "dailyValue": "40%"
+      },
+      "sugar": 44,
+      "sodium": {
+        "value": 1146,
+        "unit": "mg",
+        "dailyValue": "57%"
+      },
+      "saturatedFat": {
+        "value": 11,
+        "unit": "g",
+        "dailyValue": "73%"
+      },
+      "weight": 650
+    }
+  },
+  {
+    "name": "콰트로치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 478,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 847,
+        "unit": "mg",
+        "dailyValue": "42%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "weight": 182
+    }
+  },
+  {
+    "name": "콰트로치즈와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 478,
+      "protein": {
+        "value": 21,
+        "unit": "g",
+        "dailyValue": "39%"
+      },
+      "sugar": 4,
+      "sodium": {
+        "value": 847,
+        "unit": "mg",
+        "dailyValue": "42%"
+      },
+      "saturatedFat": {
+        "value": 10,
+        "unit": "g",
+        "dailyValue": "67%"
+      },
+      "weight": 182
+    }
+  },
+  {
+    "name": "통새우와퍼주니어",
+    "nutritionalInfo": {
+      "calories": 431,
+      "protein": {
+        "value": 18,
+        "unit": "g",
+        "dailyValue": "32%"
+      },
+      "sugar": 5,
+      "sodium": {
+        "value": 695,
+        "unit": "mg",
+        "dailyValue": "35%"
+      },
+      "saturatedFat": {
+        "value": 7,
+        "unit": "g",
+        "dailyValue": "48%"
+      },
+      "weight": 175
+    }
+  },
+  {
+    "name": "통새우와퍼 라지세트",
+    "nutritionalInfo": {
+      "calories": 1329,
+      "protein": {
+        "value": 40,
+        "unit": "g",
+        "dailyValue": "73%"
+      },
+      "sugar": 66,
+      "sodium": {
+        "value": 1775,
+        "unit": "mg",
+        "dailyValue": "89%"
+      },
+      "saturatedFat": {
+        "value": 17,
+        "unit": "g",
+        "dailyValue": "115%"
+      },
+      "weight": 995
+    }
+  },
+  {
+    "name": "통새우와퍼 세트",
+    "nutritionalInfo": {
+      "calories": 1174,
+      "protein": {
+        "value": 39,
+        "unit": "g",
+        "dailyValue": "70%"
+      },
+      "sugar": 49,
+      "sodium": {
+        "value": 1660,
+        "unit": "mg",
+        "dailyValue": "83%"
+      },
+      "saturatedFat": {
+        "value": 16,
+        "unit": "g",
+        "dailyValue": "108%"
+      },
+      "weight": 800
+    }
+  },
+  {
+    "name": "통새우와퍼",
+    "nutritionalInfo": {
+      "calories": 744,
+      "protein": {
+        "value": 35,
+        "unit": "g",
+        "dailyValue": "64%"
+      },
+      "sugar": 9,
+      "sodium": {
+        "value": 1311,
+        "unit": "mg",
+        "dailyValue": "66%"
+      },
+      "saturatedFat": {
+        "value": 13,
+        "unit": "g",
+        "dailyValue": "85%"
+      },
+      "weight": 322
+    }
+  },
+  {
+    "name": "오리지널스화이트페타 더블 라지세트",
+    "nutritionalInfo": {
+      "calories": 1802,
+      "protein": {
+        "value": 65,
+        "unit": "g",
+        "dailyValue": "118%"
+      },
+      "sugar": 70,
+      "sodium": {
+        "value": 2665,
+        "unit": "mg",
+        "dailyValue": "133%"
+      },
+      "saturatedFat": {
+        "value": 42,
+        "unit": "g",
+        "dailyValue": "282%"
+      },
+      "weight": 1084
+    }
+  },
+  {
+    "name": "오리지널스 화이트 페타 더블 세트",
+    "nutritionalInfo": {
+      "calories": 1647,
+      "protein": {
+        "value": 64,
+        "unit": "g",
+        "dailyValue": "116%"
+      },
+      "sugar": 53,
+      "sodium": {
+        "value": 2550,
+        "unit": "mg",
+        "dailyValue": "127%"
+      },
+      "saturatedFat": {
+        "value": 41,
+        "unit": "g",
+        "dailyValue": "275%"
+      },
+      "weight": 889
+    }
+  },
+  {
+    "name": "오리지널스 화이트 페타 더블",
+    "nutritionalInfo": {
+      "calories": 1217,
+      "protein": {
+        "value": 60,
+        "unit": "g",
+        "dailyValue": "109%"
+      },
+      "sugar": 13,
+      "sodium": {
+        "value": 2200,
+        "unit": "mg",
+        "dailyValue": "110%"
+      },
+      "saturatedFat": {
+        "value": 38,
+        "unit": "g",
+        "dailyValue": "252%"
+      },
+      "weight": 411
+    }
+  }
+]
